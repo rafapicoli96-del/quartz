@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776094348802-5qhwe7fva",
+  "providerId": "claude",
+  "title": "O que você acha sobre os suplementos e remédios qu...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776094348802,
+  "updatedAt": 1776096525825,
+  "lastResponseAt": 1776095848253,
+  "sessionId": "ba445bea-007c-410e-b68e-bcc849fc7ce5",
+  "providerState": {
+    "providerSessionId": "ba445bea-007c-410e-b68e-bcc849fc7ce5"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 664,
+    "cacheReadInputTokens": 35545,
+    "contextWindow": 200000,
+    "contextTokens": 36210,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

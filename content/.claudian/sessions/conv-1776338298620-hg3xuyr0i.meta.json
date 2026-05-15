@@ -1,0 +1,21 @@
+{
+  "id": "conv-1776338298620-hg3xuyr0i",
+  "providerId": "claude",
+  "title": "Update daily status\n\n---\n\n**Mas preciso esclare...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776338298620,
+  "updatedAt": 1776339411985,
+  "lastResponseAt": 1776338339224,
+  "sessionId": null,
+  "providerState": {},
+  "currentNote": "Character Status.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 259,
+    "cacheReadInputTokens": 22306,
+    "contextWindow": 200000,
+    "contextTokens": 22566,
+    "percentage": 11
+  }
+}

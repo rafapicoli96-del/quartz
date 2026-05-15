@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777551559063-7u8efetx4",
+  "providerId": "claude",
+  "title": "Vou resumir esse vídeo pra você. Deixa eu fazer...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777551559063,
+  "updatedAt": 1777553506101,
+  "lastResponseAt": 1777553429349,
+  "sessionId": "e636ba64-91a5-40d1-bae6-9e8f8d29bb05",
+  "providerState": {
+    "providerSessionId": "e636ba64-91a5-40d1-bae6-9e8f8d29bb05"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 519,
+    "cacheReadInputTokens": 83532,
+    "contextWindow": 200000,
+    "contextTokens": 84052,
+    "percentage": 42,
+    "contextWindowIsAuthoritative": true
+  }
+}

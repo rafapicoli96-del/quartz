@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776345352684-hrwo31chq",
+  "providerId": "claude",
+  "title": "File food photo into journal, log, and calendar",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776345352684,
+  "updatedAt": 1776345500265,
+  "lastResponseAt": 1776345389311,
+  "sessionId": "7bbd9c1c-c113-413e-8a0b-6dfd1e129f2e",
+  "providerState": {
+    "providerSessionId": "7bbd9c1c-c113-413e-8a0b-6dfd1e129f2e"
+  },
+  "currentNote": "IMG_3978.jpg",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 702,
+    "cacheReadInputTokens": 38288,
+    "contextWindow": 200000,
+    "contextTokens": 38998,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

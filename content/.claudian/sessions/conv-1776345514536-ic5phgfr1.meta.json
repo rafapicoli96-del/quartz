@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776345514536-ic5phgfr1",
+  "providerId": "claude",
+  "title": "Clear completed tasks from to-do",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776345514536,
+  "updatedAt": 1776352399908,
+  "lastResponseAt": 1776345548124,
+  "sessionId": "a767bacc-599a-4cd5-8739-d46a55b38e05",
+  "providerState": {
+    "providerSessionId": "a767bacc-599a-4cd5-8739-d46a55b38e05"
+  },
+  "currentNote": "Master To-Do.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 455,
+    "cacheReadInputTokens": 38355,
+    "contextWindow": 200000,
+    "contextTokens": 38818,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

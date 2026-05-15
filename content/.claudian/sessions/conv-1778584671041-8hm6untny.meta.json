@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778584671041-8hm6untny",
+  "providerId": "claude",
+  "title": "Falei várias coisas sobre o meu dia aqui no final ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778584671041,
+  "updatedAt": 1778585596999,
+  "lastResponseAt": 1778584960002,
+  "sessionId": "2891fefa-1963-4fb7-a64a-4e68d1d9b0d5",
+  "providerState": {
+    "providerSessionId": "2891fefa-1963-4fb7-a64a-4e68d1d9b0d5"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-11.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 865,
+    "cacheReadInputTokens": 45260,
+    "contextWindow": 200000,
+    "contextTokens": 46126,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

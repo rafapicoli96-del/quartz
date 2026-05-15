@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778758154488-sultzaog1",
+  "providerId": "claude",
+  "title": "Preciso ler a nota que você mencionou para ente...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778758154488,
+  "updatedAt": 1778769480414,
+  "lastResponseAt": 1778759242609,
+  "sessionId": "497def4a-f0ce-4849-9800-8b2d3abce1f1",
+  "providerState": {
+    "providerSessionId": "497def4a-f0ce-4849-9800-8b2d3abce1f1"
+  },
+  "currentNote": "03 Projects/Soc Mastery/03 Tools — Social OS.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 231,
+    "cacheReadInputTokens": 49627,
+    "contextWindow": 200000,
+    "contextTokens": 49859,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}

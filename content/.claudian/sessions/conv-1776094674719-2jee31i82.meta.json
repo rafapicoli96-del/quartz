@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776094674719-2jee31i82",
+  "providerId": "claude",
+  "title": "Adiciona aqui pra hoje, é baixa importância mas eu...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776094674719,
+  "updatedAt": 1776094954308,
+  "lastResponseAt": 1776094896995,
+  "sessionId": "d000a3de-f8bf-46db-9598-8c6f3df0f12c",
+  "providerState": {
+    "providerSessionId": "d000a3de-f8bf-46db-9598-8c6f3df0f12c"
+  },
+  "currentNote": "⭐ Work — Tarefas Ativas.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 617,
+    "cacheReadInputTokens": 16747,
+    "contextWindow": 200000,
+    "contextTokens": 17365,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

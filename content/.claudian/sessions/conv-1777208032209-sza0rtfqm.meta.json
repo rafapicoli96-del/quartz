@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777208032209-sza0rtfqm",
+  "providerId": "claude",
+  "title": "Entendi — o music briefing automático (pesquisa...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777208032209,
+  "updatedAt": 1777210147931,
+  "lastResponseAt": 1777208378932,
+  "sessionId": "5f68de02-6d41-4e95-b71f-5c2bff95a94d",
+  "providerState": {
+    "providerSessionId": "5f68de02-6d41-4e95-b71f-5c2bff95a94d"
+  },
+  "currentNote": "00 Notes/Daily Briefings/2026-04-25 — Music Briefing.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2766,
+    "cacheReadInputTokens": 88888,
+    "contextWindow": 200000,
+    "contextTokens": 91662,
+    "percentage": 46,
+    "contextWindowIsAuthoritative": true
+  }
+}

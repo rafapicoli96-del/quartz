@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776175918486-qe01klmaf",
+  "providerId": "claude",
+  "title": "Explore photo-based food tracking system",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776175918487,
+  "updatedAt": 1776182761387,
+  "lastResponseAt": 1776178351238,
+  "sessionId": "a7f2b08b-42ff-4826-a818-4295f47afde7",
+  "providerState": {
+    "providerSessionId": "a7f2b08b-42ff-4826-a818-4295f47afde7"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 545,
+    "cacheReadInputTokens": 75576,
+    "contextWindow": 200000,
+    "contextTokens": 76122,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}

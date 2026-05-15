@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778325227073-krefhe6op",
+  "providerId": "claude",
+  "title": "# Active Recall: Fontes Clicáveis para Notas de...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778325227073,
+  "updatedAt": 1778411990191,
+  "lastResponseAt": 1778326449396,
+  "sessionId": "9fa75d3c-b1e5-476d-b948-6a6c5d95acc6",
+  "providerState": {
+    "providerSessionId": "9fa75d3c-b1e5-476d-b948-6a6c5d95acc6"
+  },
+  "currentNote": "00 Notes/Active Recall/2026-05-09 — Active Recall.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

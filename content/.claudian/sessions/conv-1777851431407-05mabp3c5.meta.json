@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777851431407-05mabp3c5",
+  "providerId": "claude",
+  "title": "# Adicionar seção \"O que poderia ter feito melh...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777851431407,
+  "updatedAt": 1777890660681,
+  "lastResponseAt": 1777851763677,
+  "sessionId": "7f2735bc-8e4a-4656-a299-5313ba951440",
+  "providerState": {
+    "providerSessionId": "7f2735bc-8e4a-4656-a299-5313ba951440"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-03.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 13936,
+    "cacheReadInputTokens": 61251,
+    "contextWindow": 200000,
+    "contextTokens": 75188,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}

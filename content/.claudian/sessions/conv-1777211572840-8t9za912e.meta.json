@@ -1,0 +1,14 @@
+{
+  "id": "conv-1777211572840-8t9za912e",
+  "providerId": "claude",
+  "title": "I'll summarize this book for you using the 6-se...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777211572840,
+  "updatedAt": 1777211661106,
+  "lastResponseAt": 1777211575741,
+  "sessionId": "e1b5b2cc-3433-4cfe-9985-f44c369045b0",
+  "providerState": {
+    "providerSessionId": "e1b5b2cc-3433-4cfe-9985-f44c369045b0"
+  },
+  "currentNote": "05 Skills/book-summarizer-skill.md"
+}

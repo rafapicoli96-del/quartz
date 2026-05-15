@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777432388614-k7nqcrj1w",
+  "providerId": "claude",
+  "title": "Seguinte, tem alguma coisa que eu preciso registra...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777432388614,
+  "updatedAt": 1777550862661,
+  "lastResponseAt": 1777432835599,
+  "sessionId": "ad799eac-b537-4392-971c-ce116d810cef",
+  "providerState": {
+    "providerSessionId": "ad799eac-b537-4392-971c-ce116d810cef"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1214,
+    "cacheReadInputTokens": 47785,
+    "contextWindow": 200000,
+    "contextTokens": 49007,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}

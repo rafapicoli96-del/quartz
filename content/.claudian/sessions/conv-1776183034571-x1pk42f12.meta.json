@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776183034571-x1pk42f12",
+  "providerId": "claude",
+  "title": "Explore WhatsApp integration workarounds",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776183034571,
+  "updatedAt": 1776257369773,
+  "lastResponseAt": 1776255704730,
+  "sessionId": "4c750ab6-4571-4624-8592-6485df70bdf8",
+  "providerState": {
+    "providerSessionId": "4c750ab6-4571-4624-8592-6485df70bdf8"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 427,
+    "cacheReadInputTokens": 109606,
+    "contextWindow": 200000,
+    "contextTokens": 110034,
+    "percentage": 55,
+    "contextWindowIsAuthoritative": true
+  }
+}

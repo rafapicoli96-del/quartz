@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776343011577-5dul5yaqq",
+  "providerId": "claude",
+  "title": "Check document access",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776343011577,
+  "updatedAt": 1776345505266,
+  "lastResponseAt": 1776345158701,
+  "sessionId": "7e4335e0-1a9b-46eb-9fbe-92d36dfb64c6",
+  "providerState": {
+    "providerSessionId": "7e4335e0-1a9b-46eb-9fbe-92d36dfb64c6"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 306,
+    "cacheReadInputTokens": 75124,
+    "contextWindow": 200000,
+    "contextTokens": 75438,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}

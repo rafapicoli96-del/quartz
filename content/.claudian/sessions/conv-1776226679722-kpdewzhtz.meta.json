@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776226679722-kpdewzhtz",
+  "providerId": "claude",
+  "title": "Clarify daily automation schedule",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776226679722,
+  "updatedAt": 1776257108947,
+  "lastResponseAt": 1776255763593,
+  "sessionId": "935087e0-5cf6-4029-8a0b-68e5f85f8f0e",
+  "providerState": {
+    "providerSessionId": "935087e0-5cf6-4029-8a0b-68e5f85f8f0e"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 9451,
+    "cacheReadInputTokens": 57865,
+    "contextWindow": 200000,
+    "contextTokens": 67317,
+    "percentage": 34,
+    "contextWindowIsAuthoritative": true
+  }
+}

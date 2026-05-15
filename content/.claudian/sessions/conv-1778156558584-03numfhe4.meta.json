@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778156558584-03numfhe4",
+  "providerId": "claude",
+  "title": "# Extrair e Resumir Vídeo MP4 Local\n\n---\n\nSim, ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778156558585,
+  "updatedAt": 1778164518601,
+  "lastResponseAt": 1778157353520,
+  "sessionId": "f77abeb3-4e6f-4983-8a2f-e6d229943b58",
+  "providerState": {
+    "providerSessionId": "f77abeb3-4e6f-4983-8a2f-e6d229943b58"
+  },
+  "currentNote": "Alguns notes sobre vídeo do leon.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1384,
+    "cacheReadInputTokens": 58380,
+    "contextWindow": 200000,
+    "contextTokens": 59772,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

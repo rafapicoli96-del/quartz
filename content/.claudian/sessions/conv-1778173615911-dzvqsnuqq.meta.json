@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778173615911-dzvqsnuqq",
+  "providerId": "claude",
+  "title": "I'll process this Joe Hudson procrastination vi...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778173615911,
+  "updatedAt": 1778173843107,
+  "lastResponseAt": 1778173795446,
+  "sessionId": "2d920f14-cddb-46b1-9fa2-7539224f0572",
+  "providerState": {
+    "providerSessionId": "2d920f14-cddb-46b1-9fa2-7539224f0572"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4521,
+    "cacheReadInputTokens": 37072,
+    "contextWindow": 200000,
+    "contextTokens": 41594,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

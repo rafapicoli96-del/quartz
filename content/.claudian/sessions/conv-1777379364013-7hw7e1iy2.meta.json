@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777379364013-7hw7e1iy2",
+  "providerId": "claude",
+  "title": "Bom dia, parece que você não rodou o agente que fa...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777379364014,
+  "updatedAt": 1777387723001,
+  "lastResponseAt": 1777387598960,
+  "sessionId": "bdbb527c-f738-4d4e-89c6-5253bc1e8b92",
+  "providerState": {
+    "providerSessionId": "bdbb527c-f738-4d4e-89c6-5253bc1e8b92"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 151,
+    "cacheReadInputTokens": 88524,
+    "contextWindow": 200000,
+    "contextTokens": 88683,
+    "percentage": 44,
+    "contextWindowIsAuthoritative": true
+  }
+}

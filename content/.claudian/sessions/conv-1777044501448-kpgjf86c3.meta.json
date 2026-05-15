@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777044501448-kpgjf86c3",
+  "providerId": "claude",
+  "title": "**Side Project para Renda Extra — Análise de fi...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777044501449,
+  "updatedAt": 1777045596854,
+  "lastResponseAt": 1777044949959,
+  "sessionId": "be546f7a-d881-4bca-a0aa-0610f3c65b87",
+  "providerState": {
+    "providerSessionId": "be546f7a-d881-4bca-a0aa-0610f3c65b87"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1019,
+    "cacheReadInputTokens": 40463,
+    "contextWindow": 200000,
+    "contextTokens": 41483,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

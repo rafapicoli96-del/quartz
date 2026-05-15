@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777059900642-hg7y0of16",
+  "providerId": "claude",
+  "title": "Perfeito, vou guardar isso na memória permanent...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777059900643,
+  "updatedAt": 1777088265457,
+  "lastResponseAt": 1777060334721,
+  "sessionId": "abb9c02d-0ffa-425a-908b-3fcae3621a29",
+  "providerState": {
+    "providerSessionId": "abb9c02d-0ffa-425a-908b-3fcae3621a29"
+  },
+  "currentNote": "03 Projects/Finance/(C) Saúde Financeira Geral.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1359,
+    "cacheReadInputTokens": 41421,
+    "contextWindow": 200000,
+    "contextTokens": 42781,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

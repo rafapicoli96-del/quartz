@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776257177094-nllyqclkb",
+  "providerId": "claude",
+  "title": "Setup daily checklist template",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776257177094,
+  "updatedAt": 1776257373397,
+  "lastResponseAt": 1776257189274,
+  "sessionId": "c13ee0db-0de1-499e-8288-76df466f1f55",
+  "providerState": {
+    "providerSessionId": "c13ee0db-0de1-499e-8288-76df466f1f55"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 220,
+    "cacheReadInputTokens": 18014,
+    "contextWindow": 200000,
+    "contextTokens": 18235,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

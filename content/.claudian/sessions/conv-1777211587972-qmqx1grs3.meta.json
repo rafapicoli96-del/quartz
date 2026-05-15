@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777211587972-qmqx1grs3",
+  "providerId": "claude",
+  "title": "Vou rodar a skill de Book Summarizer no PDF de ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777211587972,
+  "updatedAt": 1777310529134,
+  "lastResponseAt": 1777211734103,
+  "sessionId": "7d3e855b-ee4b-4686-99f3-e53d595fcdeb",
+  "providerState": {
+    "providerSessionId": "7d3e855b-ee4b-4686-99f3-e53d595fcdeb"
+  },
+  "currentNote": "05 Skills/book-summarizer-skill.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 8330,
+    "cacheReadInputTokens": 60168,
+    "contextWindow": 200000,
+    "contextTokens": 68506,
+    "percentage": 34,
+    "contextWindowIsAuthoritative": true
+  }
+}

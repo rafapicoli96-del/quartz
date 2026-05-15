@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777462926707-fsw1au3ni",
+  "providerId": "claude",
+  "title": "Você rodou meu agente das 6 da manhã, que faz o re...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777462926707,
+  "updatedAt": 1777550864099,
+  "lastResponseAt": 1777464200719,
+  "sessionId": "f031671d-05ae-4acc-b7ab-2ceb23878ab7",
+  "providerState": {
+    "providerSessionId": "f031671d-05ae-4acc-b7ab-2ceb23878ab7"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 240,
+    "cacheReadInputTokens": 125287,
+    "contextWindow": 200000,
+    "contextTokens": 125535,
+    "percentage": 63,
+    "contextWindowIsAuthoritative": true
+  }
+}

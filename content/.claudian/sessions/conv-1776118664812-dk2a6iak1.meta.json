@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776118664812-dk2a6iak1",
+  "providerId": "claude",
+  "title": "Corrigir análise sobre origem familiar",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776118664812,
+  "updatedAt": 1776118870176,
+  "lastResponseAt": 1776118810866,
+  "sessionId": "11e064d5-09c2-4383-85c6-99513e2655ff",
+  "providerState": {
+    "providerSessionId": "11e064d5-09c2-4383-85c6-99513e2655ff"
+  },
+  "currentNote": "00 Notes/Mindset/Psychological Patterns - Deep Dives/(C) Master Profile — Padrões Psicológicos.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2622,
+    "cacheReadInputTokens": 22210,
+    "contextWindow": 200000,
+    "contextTokens": 24833,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

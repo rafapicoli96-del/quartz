@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776979939560-e4z74l1uk",
+  "providerId": "claude",
+  "title": "Vou usar o script `spotify_playlist.py` para cr...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776979939560,
+  "updatedAt": 1776983325280,
+  "lastResponseAt": 1776980907959,
+  "sessionId": "2907f630-3d94-4601-b462-a4f5e0b14b4e",
+  "providerState": {
+    "providerSessionId": "2907f630-3d94-4601-b462-a4f5e0b14b4e"
+  },
+  "currentNote": "03 Projects/Music Mastery/00 Queue/(C) Artist Study List.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2099,
+    "cacheReadInputTokens": 62408,
+    "contextWindow": 200000,
+    "contextTokens": 64515,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

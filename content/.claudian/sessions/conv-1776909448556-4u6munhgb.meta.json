@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776909448556-4u6munhgb",
+  "providerId": "claude",
+  "title": "Hey",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776909448556,
+  "updatedAt": 1776909644489,
+  "lastResponseAt": 1776909471979,
+  "sessionId": "6400876d-649a-4373-9d5b-84eb20582354",
+  "providerState": {
+    "providerSessionId": "6400876d-649a-4373-9d5b-84eb20582354"
+  },
+  "currentNote": "00 Notes/Daily Briefings/2026-04-21 — Music Briefing.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

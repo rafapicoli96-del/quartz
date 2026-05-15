@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776352500911-gxagjeatg",
+  "providerId": "claude",
+  "title": "Add to-dos and schedule evening event\n\n---\n\nVou...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776352500911,
+  "updatedAt": 1776426612194,
+  "lastResponseAt": 1776423645270,
+  "sessionId": "e7b70d82-4a05-4798-bd17-73a127dbe178",
+  "providerState": {
+    "providerSessionId": "e7b70d82-4a05-4798-bd17-73a127dbe178"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 8726,
+    "cacheReadInputTokens": 63392,
+    "contextWindow": 200000,
+    "contextTokens": 72119,
+    "percentage": 36,
+    "contextWindowIsAuthoritative": true
+  }
+}

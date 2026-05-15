@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777046365600-gs75cz6k8",
+  "providerId": "claude",
+  "title": "Vou procurar pelos invoices já gerados para ent...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777046365600,
+  "updatedAt": 1777047953097,
+  "lastResponseAt": 1777046609533,
+  "sessionId": "e3f52792-1a61-49ff-8cb0-59d9ca90b0dd",
+  "providerState": {
+    "providerSessionId": "e3f52792-1a61-49ff-8cb0-59d9ca90b0dd"
+  },
+  "currentNote": "03 Projects/Income/Pickup Remote/INVOICE - CH-11 Clean Chord Switching.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 678,
+    "cacheReadInputTokens": 51078,
+    "contextWindow": 200000,
+    "contextTokens": 51764,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776046823453-ny7dbbzer",
+  "providerId": "claude",
+  "title": "Setup auto-updating Sync rápido at vault root",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776046823454,
+  "updatedAt": 1776116349649,
+  "lastResponseAt": 1776081742125,
+  "sessionId": "e2c239e1-75ed-4672-942a-2130c1fbae11",
+  "providerState": {
+    "providerSessionId": "e2c239e1-75ed-4672-942a-2130c1fbae11"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776017194660-0btcuwkk7",
+  "providerId": "claude",
+  "title": "Run brain-setup from 05 skills folder\n\n---\n\n**N...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776017194661,
+  "updatedAt": 1776116401690,
+  "lastResponseAt": 1776028749750,
+  "sessionId": "3a8d8510-060a-4994-acae-eee4a2366055",
+  "providerState": {
+    "providerSessionId": "3a8d8510-060a-4994-acae-eee4a2366055"
+  },
+  "currentNote": "SETUP GUIDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 616,
+    "cacheReadInputTokens": 92978,
+    "contextWindow": 200000,
+    "contextTokens": 93595,
+    "percentage": 47,
+    "contextWindowIsAuthoritative": true
+  }
+}

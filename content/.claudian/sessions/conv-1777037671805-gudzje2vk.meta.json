@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777037671805-gudzje2vk",
+  "providerId": "claude",
+  "title": "**Today.md — Reorganizar estrutura**\n\n---\n\nPerf...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777037671805,
+  "updatedAt": 1777123932419,
+  "lastResponseAt": 1777117833794,
+  "sessionId": "89ba050d-44bf-4594-91b1-048356c59bfc",
+  "providerState": {
+    "providerSessionId": "89ba050d-44bf-4594-91b1-048356c59bfc"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 447,
+    "cacheReadInputTokens": 89481,
+    "contextWindow": 200000,
+    "contextTokens": 89936,
+    "percentage": 45,
+    "contextWindowIsAuthoritative": true
+  }
+}

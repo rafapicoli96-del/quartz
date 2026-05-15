@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776257206745-vyylwx3bg",
+  "providerId": "claude",
+  "title": "Não consigo ver nenhuma nota anexada. Você pode...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776257206745,
+  "updatedAt": 1776258784177,
+  "lastResponseAt": 1776258781145,
+  "sessionId": "55967105-acc6-48e3-bead-9e962aa1086f",
+  "providerState": {
+    "providerSessionId": "55967105-acc6-48e3-bead-9e962aa1086f"
+  },
+  "currentNote": "00 Notes/Books/High Performance Habits.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1937,
+    "cacheReadInputTokens": 36637,
+    "contextWindow": 200000,
+    "contextTokens": 38575,
+    "percentage": 19
+  }
+}

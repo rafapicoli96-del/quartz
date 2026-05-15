@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778605707805-inwr1k8k2",
+  "providerId": "claude",
+  "title": "Entendo — você quer atualizar o journal e reset...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778605707806,
+  "updatedAt": 1778637358352,
+  "lastResponseAt": 1778605717666,
+  "sessionId": "79921066-c765-4a2a-a297-4f36f7914f3f",
+  "providerState": {
+    "providerSessionId": "79921066-c765-4a2a-a297-4f36f7914f3f"
+  },
+  "currentNote": "zWork — Tarefas Ativas.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 656,
+    "cacheReadInputTokens": 27622,
+    "contextWindow": 200000,
+    "contextTokens": 28279,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

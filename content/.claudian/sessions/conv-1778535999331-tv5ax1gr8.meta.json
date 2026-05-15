@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778535999331-tv5ax1gr8",
+  "providerId": "claude",
+  "title": "Vou falar aqui pra você o meu treino de hoje, pra ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778535999331,
+  "updatedAt": 1778550730531,
+  "lastResponseAt": 1778536094386,
+  "sessionId": "3440419a-0151-4577-803e-621c915a0a01",
+  "providerState": {
+    "providerSessionId": "3440419a-0151-4577-803e-621c915a0a01"
+  },
+  "currentNote": "(C) Gym Log.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 543,
+    "cacheReadInputTokens": 33255,
+    "contextWindow": 200000,
+    "contextTokens": 33799,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

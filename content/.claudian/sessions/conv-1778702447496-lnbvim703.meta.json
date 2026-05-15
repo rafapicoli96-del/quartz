@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778702447496-lnbvim703",
+  "providerId": "claude",
+  "title": "# Memory Mastery — Novo Projeto de Exercícios C...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778702447497,
+  "updatedAt": 1778704470297,
+  "lastResponseAt": 1778702576378,
+  "sessionId": "d6ecb111-fb21-4f2b-b049-cb904e88c678",
+  "providerState": {
+    "providerSessionId": "d6ecb111-fb21-4f2b-b049-cb904e88c678"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 251,
+    "cacheReadInputTokens": 36742,
+    "contextWindow": 200000,
+    "contextTokens": 36994,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

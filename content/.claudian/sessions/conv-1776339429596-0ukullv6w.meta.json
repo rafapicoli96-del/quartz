@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776339429596-0ukullv6w",
+  "providerId": "claude",
+  "title": "Verificar acesso a vídeo YouTube",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776339429596,
+  "updatedAt": 1776339829418,
+  "lastResponseAt": 1776339508412,
+  "sessionId": "200c2bd7-e109-4cca-b172-413738ceb15e",
+  "providerState": {
+    "providerSessionId": "200c2bd7-e109-4cca-b172-413738ceb15e"
+  },
+  "currentNote": "(C) Contexto Agora.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 454,
+    "cacheReadInputTokens": 19408,
+    "contextWindow": 200000,
+    "contextTokens": 19863,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

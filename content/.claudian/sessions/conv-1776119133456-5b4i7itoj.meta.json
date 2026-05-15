@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776119133456-5b4i7itoj",
+  "providerId": "claude",
+  "title": "Assess CLAUDE.md content integration",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776119133456,
+  "updatedAt": 1776128504628,
+  "lastResponseAt": 1776119249867,
+  "sessionId": "845f239b-1930-4b7f-a81e-ba9463a10374",
+  "providerState": {
+    "providerSessionId": "845f239b-1930-4b7f-a81e-ba9463a10374"
+  },
+  "currentNote": "00 Notes/Mindset/Psychological Patterns - Deep Dives/(C) Master Profile — Padrões Psicológicos.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1205,
+    "cacheReadInputTokens": 27517,
+    "contextWindow": 200000,
+    "contextTokens": 28723,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

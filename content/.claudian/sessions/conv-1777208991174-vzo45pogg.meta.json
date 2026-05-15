@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777208991174-vzo45pogg",
+  "providerId": "claude",
+  "title": "# Diagnóstico: Agente Daily – Falha no GCal e B...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777208991174,
+  "updatedAt": 1777211327858,
+  "lastResponseAt": 1777211265521,
+  "sessionId": "3c7bb702-4bc4-4f67-9a1c-c10fb6a7853c",
+  "providerState": {
+    "providerSessionId": "3c7bb702-4bc4-4f67-9a1c-c10fb6a7853c"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-25.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1246,
+    "cacheReadInputTokens": 66131,
+    "contextWindow": 200000,
+    "contextTokens": 67385,
+    "percentage": 34,
+    "contextWindowIsAuthoritative": true
+  }
+}

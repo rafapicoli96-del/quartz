@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777040036857-16bbju62h",
+  "providerId": "claude",
+  "title": "Deixa eu ler as regras do Finance system pra re...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777040036858,
+  "updatedAt": 1777040607333,
+  "lastResponseAt": 1777040525347,
+  "sessionId": "fbbb81fc-7c9c-48ec-963e-a700d22c0bb3",
+  "providerState": {
+    "providerSessionId": "fbbb81fc-7c9c-48ec-963e-a700d22c0bb3"
+  },
+  "currentNote": "03 Projects/Finance/Relatorios/2025-12.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 421,
+    "cacheReadInputTokens": 48097,
+    "contextWindow": 200000,
+    "contextTokens": 48528,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

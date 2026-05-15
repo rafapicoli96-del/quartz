@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776337230459-t3t3mck66",
+  "providerId": "claude",
+  "title": "Update Today and character status",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776337230459,
+  "updatedAt": 1776340029582,
+  "lastResponseAt": 1776338487495,
+  "sessionId": "e33e4cc5-3159-4dd6-8c0a-54ea60491871",
+  "providerState": {
+    "providerSessionId": "e33e4cc5-3159-4dd6-8c0a-54ea60491871"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 17338,
+    "cacheReadInputTokens": 85140,
+    "contextWindow": 200000,
+    "contextTokens": 102479,
+    "percentage": 51,
+    "contextWindowIsAuthoritative": true
+  }
+}

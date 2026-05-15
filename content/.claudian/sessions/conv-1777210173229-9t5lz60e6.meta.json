@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777210173229-9t5lz60e6",
+  "providerId": "claude",
+  "title": "Entendi! Vou procurar pelas fotos de pizza no s...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777210173229,
+  "updatedAt": 1777211328961,
+  "lastResponseAt": 1777210666252,
+  "sessionId": "15ffc0dd-15e8-40be-aee9-25fe054461d2",
+  "providerState": {
+    "providerSessionId": "15ffc0dd-15e8-40be-aee9-25fe054461d2"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-25.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 788,
+    "cacheReadInputTokens": 56086,
+    "contextWindow": 200000,
+    "contextTokens": 56875,
+    "percentage": 28,
+    "contextWindowIsAuthoritative": true
+  }
+}

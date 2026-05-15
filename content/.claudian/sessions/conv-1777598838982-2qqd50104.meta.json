@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777598838982-2qqd50104",
+  "providerId": "claude",
+  "title": "I'll get the video info first so I can generate...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777598838983,
+  "updatedAt": 1777631860925,
+  "lastResponseAt": 1777598928877,
+  "sessionId": "a3d31061-b74f-4363-8352-8eaa51c7ddbc",
+  "providerState": {
+    "providerSessionId": "a3d31061-b74f-4363-8352-8eaa51c7ddbc"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 4795,
+    "cacheReadInputTokens": 57665,
+    "contextWindow": 200000,
+    "contextTokens": 62468,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

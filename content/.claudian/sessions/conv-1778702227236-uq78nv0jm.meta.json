@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778702227236-uq78nv0jm",
+  "providerId": "claude",
+  "title": "**Verificando: Alyssa, o Notes App, e o que o v...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778702227237,
+  "updatedAt": 1778702399756,
+  "lastResponseAt": 1778702290347,
+  "sessionId": "5e944a74-8e35-41eb-83b9-a2222a196b32",
+  "providerState": {
+    "providerSessionId": "5e944a74-8e35-41eb-83b9-a2222a196b32"
+  },
+  "currentNote": "00 Notes/Vídeos/Alysa (Ice Skater)/Alyssa Liu — The Mindset of Success Without Suffering.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 1117,
+    "cacheReadInputTokens": 59289,
+    "contextWindow": 200000,
+    "contextTokens": 60416,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776366413439-igykemjfk",
+  "providerId": "claude",
+  "title": "Rename guitar pickup tracks to format",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776366413439,
+  "updatedAt": 1776423010707,
+  "lastResponseAt": 1776368278184,
+  "sessionId": "564468c5-5fff-4773-97c0-db838f6384b1",
+  "providerState": {
+    "providerSessionId": "564468c5-5fff-4773-97c0-db838f6384b1"
+  },
+  "currentNote": "05 Skills/pickup-track-renamer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 778,
+    "cacheReadInputTokens": 45440,
+    "contextWindow": 200000,
+    "contextTokens": 46226,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

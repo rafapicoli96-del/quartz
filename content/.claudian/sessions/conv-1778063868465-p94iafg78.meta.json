@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778063868465-p94iafg78",
+  "providerId": "claude",
+  "title": "Mano, por que você não está mais funcionando",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778063868465,
+  "updatedAt": 1778066082396,
+  "lastResponseAt": 1778065467211,
+  "sessionId": "5e3a0180-1fd7-461a-b0d3-d6027d89fdf1",
+  "providerState": {
+    "providerSessionId": "5e3a0180-1fd7-461a-b0d3-d6027d89fdf1"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 175,
+    "cacheReadInputTokens": 87566,
+    "contextWindow": 200000,
+    "contextTokens": 87744,
+    "percentage": 44,
+    "contextWindowIsAuthoritative": true
+  }
+}

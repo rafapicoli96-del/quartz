@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777600716389-383mq29rc",
+  "providerId": "claude",
+  "title": "I'll get the video title using yt-dlp to genera...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777600716389,
+  "updatedAt": 1777631865289,
+  "lastResponseAt": 1777600803519,
+  "sessionId": "aca1cf2e-e3fe-4d94-9892-d595f0c75d34",
+  "providerState": {
+    "providerSessionId": "aca1cf2e-e3fe-4d94-9892-d595f0c75d34"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 4348,
+    "cacheReadInputTokens": 57477,
+    "contextWindow": 200000,
+    "contextTokens": 61833,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

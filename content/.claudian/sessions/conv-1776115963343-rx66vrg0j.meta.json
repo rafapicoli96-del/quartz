@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776115963343-rx66vrg0j",
+  "providerId": "claude",
+  "title": "Clarificar padrão de vida social",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776115963343,
+  "updatedAt": 1776116258248,
+  "lastResponseAt": 1776116016685,
+  "sessionId": "79647c8d-c879-403d-b86d-69faec63c165",
+  "providerState": {
+    "providerSessionId": "79647c8d-c879-403d-b86d-69faec63c165"
+  },
+  "currentNote": "00 Notes/Mindset/Psychological Patterns - Deep Dives/2026-04-13 - Social & Networking Block.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 950,
+    "cacheReadInputTokens": 43365,
+    "contextWindow": 200000,
+    "contextTokens": 44323,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

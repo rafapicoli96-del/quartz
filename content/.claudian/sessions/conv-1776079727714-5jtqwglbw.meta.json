@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776079727714-5jtqwglbw",
+  "providerId": "claude",
+  "title": "Activate Obsidian graph mode",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776079727715,
+  "updatedAt": 1776116337672,
+  "lastResponseAt": 1776079887082,
+  "sessionId": "0d8bff72-746c-4df5-a031-ef2eb634d17d",
+  "providerState": {
+    "providerSessionId": "0d8bff72-746c-4df5-a031-ef2eb634d17d"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 653,
+    "cacheReadInputTokens": 16434,
+    "contextWindow": 200000,
+    "contextTokens": 17088,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

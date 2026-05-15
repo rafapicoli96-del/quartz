@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776823759391-xj1jv1h75",
+  "providerId": "claude",
+  "title": "Create Spotify playlist with recommendations",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776823759391,
+  "updatedAt": 1776959406176,
+  "lastResponseAt": 1776911994865,
+  "sessionId": "1859fde3-d31d-469f-8305-ff76f2d171a6",
+  "providerState": {
+    "providerSessionId": "1859fde3-d31d-469f-8305-ff76f2d171a6"
+  },
+  "currentNote": "03 Projects/Music Mastery/00 Queue/(C) Artist Study List.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1917,
+    "cacheReadInputTokens": 88056,
+    "contextWindow": 200000,
+    "contextTokens": 89981,
+    "percentage": 45,
+    "contextWindowIsAuthoritative": true
+  }
+}

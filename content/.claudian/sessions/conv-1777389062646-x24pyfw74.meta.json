@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777389062646-x24pyfw74",
+  "providerId": "claude",
+  "title": "**Active Recall — Video Source Selection Bug**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777389062646,
+  "updatedAt": 1777415415657,
+  "lastResponseAt": 1777389283284,
+  "sessionId": "ed860aa6-c184-41d8-b8d5-be7589e1eba2",
+  "providerState": {
+    "providerSessionId": "ed860aa6-c184-41d8-b8d5-be7589e1eba2"
+  },
+  "currentNote": "00 Notes/Active Recall/2026-04-28 — Active Recall.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 18260,
+    "cacheReadInputTokens": 45479,
+    "contextWindow": 200000,
+    "contextTokens": 63740,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

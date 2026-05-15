@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776940120027-xoctas9am",
+  "providerId": "claude",
+  "title": "O Today e o Journal ainda não foram atualizados",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776940120027,
+  "updatedAt": 1776940220400,
+  "lastResponseAt": 1776940121944,
+  "sessionId": "74d4c291-db03-4c69-b68a-03b4360695f9",
+  "providerState": {
+    "providerSessionId": "74d4c291-db03-4c69-b68a-03b4360695f9"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

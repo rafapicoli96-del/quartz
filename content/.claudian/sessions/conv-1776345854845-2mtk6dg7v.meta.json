@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776345854845-2mtk6dg7v",
+  "providerId": "claude",
+  "title": "Simplify view by removing empty categories",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776345854845,
+  "updatedAt": 1776346000393,
+  "lastResponseAt": 1776345917186,
+  "sessionId": "02c7c817-d7f3-4a73-ad06-30dcbce22484",
+  "providerState": {
+    "providerSessionId": "02c7c817-d7f3-4a73-ad06-30dcbce22484"
+  },
+  "currentNote": "Master To-Do.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 705,
+    "cacheReadInputTokens": 38952,
+    "contextWindow": 200000,
+    "contextTokens": 39665,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

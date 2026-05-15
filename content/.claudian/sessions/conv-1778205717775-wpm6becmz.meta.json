@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778205717775-wpm6becmz",
+  "providerId": "claude",
+  "title": "I'll process this YouTube video and create the ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778205717776,
+  "updatedAt": 1778236212072,
+  "lastResponseAt": 1778205876146,
+  "sessionId": "45ae2b42-8b38-4593-9dae-83344cd019e7",
+  "providerState": {
+    "providerSessionId": "45ae2b42-8b38-4593-9dae-83344cd019e7"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 9101,
+    "cacheReadInputTokens": 69484,
+    "contextWindow": 200000,
+    "contextTokens": 78593,
+    "percentage": 39,
+    "contextWindowIsAuthoritative": true
+  }
+}

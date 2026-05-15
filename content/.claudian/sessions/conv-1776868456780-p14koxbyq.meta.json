@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776868456780-p14koxbyq",
+  "providerId": "claude",
+  "title": "Create Daily Macro Tracking Summary",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776868456780,
+  "updatedAt": 1776868832021,
+  "lastResponseAt": 1776868800020,
+  "sessionId": "89a9c99f-a367-48ee-a59d-95a0a2a2c840",
+  "providerState": {
+    "providerSessionId": "89a9c99f-a367-48ee-a59d-95a0a2a2c840"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-21.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 666,
+    "cacheReadInputTokens": 32969,
+    "contextWindow": 200000,
+    "contextTokens": 33636,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

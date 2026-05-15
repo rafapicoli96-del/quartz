@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777895403598-teogc8mrs",
+  "providerId": "claude",
+  "title": "**Sultans of Swing & Start Me Up — Análises Com...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777895403598,
+  "updatedAt": 1777916145949,
+  "lastResponseAt": 1777900433355,
+  "sessionId": "80ad0fa0-a183-4005-8d27-61c36140da37",
+  "providerState": {
+    "providerSessionId": "80ad0fa0-a183-4005-8d27-61c36140da37"
+  },
+  "currentNote": "zPICKUP - Triads misc tracks.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 294,
+    "cacheReadInputTokens": 52145,
+    "contextWindow": 200000,
+    "contextTokens": 52447,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

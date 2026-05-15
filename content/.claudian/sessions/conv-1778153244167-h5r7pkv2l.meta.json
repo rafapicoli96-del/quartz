@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778153244167-h5r7pkv2l",
+  "providerId": "claude",
+  "title": "# Arrumar Today.md e Resolver Conflitos do Obsi...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778153244168,
+  "updatedAt": 1778173573162,
+  "lastResponseAt": 1778154160327,
+  "sessionId": "8a1ddd35-5607-4202-9e9d-c30681e96f07",
+  "providerState": {
+    "providerSessionId": "8a1ddd35-5607-4202-9e9d-c30681e96f07"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 255,
+    "cacheReadInputTokens": 59221,
+    "contextWindow": 200000,
+    "contextTokens": 59477,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

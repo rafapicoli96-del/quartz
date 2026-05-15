@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776772125879-ki9aklsn0",
+  "providerId": "claude",
+  "title": "Clarify Google Calendar filtering rules",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776772125879,
+  "updatedAt": 1776807648000,
+  "lastResponseAt": 1776772534908,
+  "sessionId": "5317e5da-65af-45b0-93ac-05748a613992",
+  "providerState": {
+    "providerSessionId": "5317e5da-65af-45b0-93ac-05748a613992"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-20.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 491,
+    "cacheReadInputTokens": 30802,
+    "contextWindow": 200000,
+    "contextTokens": 31294,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

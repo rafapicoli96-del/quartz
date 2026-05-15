@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776564785326-sqcxxkhc7",
+  "providerId": "claude",
+  "title": "Incorporate journal responses",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776564785326,
+  "updatedAt": 1776564985973,
+  "lastResponseAt": 1776564837790,
+  "sessionId": "99ec6e16-b6ff-4cee-9249-ea939365a8cd",
+  "providerState": {
+    "providerSessionId": "99ec6e16-b6ff-4cee-9249-ea939365a8cd"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-17.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 457,
+    "cacheReadInputTokens": 23686,
+    "contextWindow": 200000,
+    "contextTokens": 24144,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

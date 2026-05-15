@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776116534480-wh0ihj9j4",
+  "providerId": "claude",
+  "title": "Localizar sessão de hipnoterapia anterior\n\n---\n...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776116534480,
+  "updatedAt": 1776118581508,
+  "lastResponseAt": 1776118336417,
+  "sessionId": "876592d6-be0f-4079-a216-dced3215cbac",
+  "providerState": {
+    "providerSessionId": "876592d6-be0f-4079-a216-dced3215cbac"
+  },
+  "currentNote": "00 Notes/Mindset/Psychological Patterns - Deep Dives/(C) Master Profile — Padrões Psicológicos.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1865,
+    "cacheReadInputTokens": 56574,
+    "contextWindow": 200000,
+    "contextTokens": 58440,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

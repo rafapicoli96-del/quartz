@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778174311695-asxhsdxv6",
+  "providerId": "claude",
+  "title": "I'll run the YouTube summarizer skill on this v...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778174311695,
+  "updatedAt": 1778236216012,
+  "lastResponseAt": 1778185534719,
+  "sessionId": "419acb33-faff-4bb9-b383-87f27c4f7492",
+  "providerState": {
+    "providerSessionId": "419acb33-faff-4bb9-b383-87f27c4f7492"
+  },
+  "currentNote": "00 Notes/Vídeos/Joe Hudson/Procrastination/Your To-Do List is Just Your Inner Critic on Paper.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 10655,
+    "cacheReadInputTokens": 78980,
+    "contextWindow": 200000,
+    "contextTokens": 89643,
+    "percentage": 45,
+    "contextWindowIsAuthoritative": true
+  }
+}

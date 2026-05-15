@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776112212835-usn2voke0",
+  "providerId": "claude",
+  "title": "Explorar a raiz da resistência profunda",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776112212835,
+  "updatedAt": 1776118582569,
+  "lastResponseAt": 1776115799760,
+  "sessionId": "2a243845-1131-4feb-b475-af0e32f4e5df",
+  "providerState": {
+    "providerSessionId": "2a243845-1131-4feb-b475-af0e32f4e5df"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1879,
+    "cacheReadInputTokens": 51644,
+    "contextWindow": 200000,
+    "contextTokens": 53524,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}

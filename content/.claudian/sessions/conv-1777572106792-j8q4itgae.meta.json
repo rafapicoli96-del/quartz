@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777572106792-j8q4itgae",
+  "providerId": "claude",
+  "title": "**Hiperfoco no Kindle e Falha de Tarefas — Corr...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777572106792,
+  "updatedAt": 1777583846648,
+  "lastResponseAt": 1777572965886,
+  "sessionId": "4c58d256-c5f7-465b-9ee0-c321ebc65055",
+  "providerState": {
+    "providerSessionId": "4c58d256-c5f7-465b-9ee0-c321ebc65055"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-29.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 770,
+    "cacheReadInputTokens": 65823,
+    "contextWindow": 200000,
+    "contextTokens": 66603,
+    "percentage": 33
+  }
+}

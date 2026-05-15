@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776093672153-v4hudj0va",
+  "providerId": "claude",
+  "title": "Create work tasks dashboard",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776093672153,
+  "updatedAt": 1776094077682,
+  "lastResponseAt": 1776093996552,
+  "sessionId": "43b36933-0781-4df9-b01a-a3a41272fc49",
+  "providerState": {
+    "providerSessionId": "43b36933-0781-4df9-b01a-a3a41272fc49"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 2767,
+    "cacheReadInputTokens": 44676,
+    "contextWindow": 200000,
+    "contextTokens": 47453,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

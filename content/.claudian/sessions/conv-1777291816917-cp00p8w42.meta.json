@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777291816917-cp00p8w42",
+  "providerId": "claude",
+  "title": "Ontem também comi um pouco mais de comida mexicana...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777291816917,
+  "updatedAt": 1777300606902,
+  "lastResponseAt": 1777292081763,
+  "sessionId": "5efdc3e4-b397-46b3-9382-dd403d4a31fe",
+  "providerState": {
+    "providerSessionId": "5efdc3e4-b397-46b3-9382-dd403d4a31fe"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-26.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1475,
+    "cacheReadInputTokens": 34588,
+    "contextWindow": 200000,
+    "contextTokens": 36064,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

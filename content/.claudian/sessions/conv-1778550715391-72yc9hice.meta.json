@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778550715391-72yc9hice",
+  "providerId": "claude",
+  "title": "# Jason Joshua Mix Study — Fix Assets & Organiz...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778550715392,
+  "updatedAt": 1778593066231,
+  "lastResponseAt": 1778586004549,
+  "sessionId": "bb3891ea-a357-4b68-badc-742d6f451113",
+  "providerState": {
+    "providerSessionId": "bb3891ea-a357-4b68-badc-742d6f451113"
+  },
+  "currentNote": "00 Notes/Jaycen - Drunk MWTM.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 128,
+    "cacheReadInputTokens": 75786,
+    "contextWindow": 200000,
+    "contextTokens": 75915,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}

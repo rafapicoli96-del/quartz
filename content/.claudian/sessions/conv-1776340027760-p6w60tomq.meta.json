@@ -1,0 +1,21 @@
+{
+  "id": "conv-1776340027760-p6w60tomq",
+  "providerId": "claude",
+  "title": "Update daily note with photo\n\n---\n\n**Mas precis...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776340027760,
+  "updatedAt": 1776342995628,
+  "lastResponseAt": 1776340093179,
+  "sessionId": null,
+  "providerState": {},
+  "currentNote": "Character Status.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 6378,
+    "cacheReadInputTokens": 22706,
+    "contextWindow": 200000,
+    "contextTokens": 29085,
+    "percentage": 15
+  }
+}

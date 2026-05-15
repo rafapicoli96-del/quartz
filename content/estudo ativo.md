@@ -1,0 +1,3 @@
+tava treinando hoje, qual exercício você curte mais, mano supino acho que é o q eu mais facul, música no máximo, personal, lembrei lucas personal e uma profissão dahora, eu falei pra ele fazer, e o condomínio lá era muito dahora tinha muita coisa pra fazer lá, oficina delícia, não tem piscina no meu hoje e eu senti falta você gosta de sauna saiba e mo dahora eu fico muito tempo ficava meditando na sequinha, mas bati subsidy ficar muito tempo e muito treta. Futebol, eu jogava bastante mas escola, intercalasse,  era meu jeito de pegar minha, o time que ganhava pegava as mina, 
+
+halter ai vai até 34 ligas, já assistiu o birl, meme do good of war era muito bom, eu jogava pra caralhoooo, mas não terminei o. jogo bocó tô tentando terminar ainda. 

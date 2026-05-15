@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776302274510-fvb9lks5p",
+  "providerId": "claude",
+  "title": "Configure GitHub agent to run at 6am",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776302274510,
+  "updatedAt": 1776303402106,
+  "lastResponseAt": 1776302301408,
+  "sessionId": "bbf3baaf-8248-47f6-81f9-03de473a7717",
+  "providerState": {
+    "providerSessionId": "bbf3baaf-8248-47f6-81f9-03de473a7717"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 8474,
+    "cacheReadInputTokens": 39351,
+    "contextWindow": 200000,
+    "contextTokens": 47833,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

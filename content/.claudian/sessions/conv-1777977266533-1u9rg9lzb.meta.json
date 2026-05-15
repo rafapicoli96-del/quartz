@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777977266533-1u9rg9lzb",
+  "providerId": "claude",
+  "title": "Não consegui acessar o Bash para rodar a skill ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777977266534,
+  "updatedAt": 1778018269565,
+  "lastResponseAt": 1777977414406,
+  "sessionId": "0fcf0623-b1bf-41e3-a179-510c66eae949",
+  "providerState": {
+    "providerSessionId": "0fcf0623-b1bf-41e3-a179-510c66eae949"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4394,
+    "cacheReadInputTokens": 39777,
+    "contextWindow": 200000,
+    "contextTokens": 44172,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

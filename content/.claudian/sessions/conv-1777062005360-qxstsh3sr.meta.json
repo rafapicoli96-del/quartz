@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777062005360-qxstsh3sr",
+  "providerId": "claude",
+  "title": "Olha, eu atualizei o nosso note aqui de saúde fina...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777062005360,
+  "updatedAt": 1777088261739,
+  "lastResponseAt": 1777062163124,
+  "sessionId": "6bb6eaaf-34df-496b-beb1-5f5fbf23e761",
+  "providerState": {
+    "providerSessionId": "6bb6eaaf-34df-496b-beb1-5f5fbf23e761"
+  },
+  "currentNote": "03 Projects/Finance/(C) Saúde Financeira Geral.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 307,
+    "cacheReadInputTokens": 38602,
+    "contextWindow": 200000,
+    "contextTokens": 38910,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

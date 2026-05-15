@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777048043023-xhyvitfhh",
+  "providerId": "claude",
+  "title": "**Atualizar Journals com Respostas Pendentes**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777048043024,
+  "updatedAt": 1777059555864,
+  "lastResponseAt": 1777057986002,
+  "sessionId": "7df4a813-f4a9-4329-9b8c-6a11fa15df23",
+  "providerState": {
+    "providerSessionId": "7df4a813-f4a9-4329-9b8c-6a11fa15df23"
+  },
+  "currentNote": "03 Projects/Finance/Relatorios/2026-04.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 336,
+    "cacheReadInputTokens": 88988,
+    "contextWindow": 200000,
+    "contextTokens": 89332,
+    "percentage": 45,
+    "contextWindowIsAuthoritative": true
+  }
+}

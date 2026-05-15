@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776976748149-84lpc4v9d",
+  "providerId": "claude",
+  "title": "Roda o song log generator aqui:",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776976748149,
+  "updatedAt": 1776979671374,
+  "lastResponseAt": 1776977628490,
+  "sessionId": "40706a9d-3642-4a9c-bd89-cae4ab0bf2f3",
+  "providerState": {
+    "providerSessionId": "40706a9d-3642-4a9c-bd89-cae4ab0bf2f3"
+  },
+  "currentNote": "03 Projects/Music Mastery/(C) Song Logs Index — Bullets Version.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1002,
+    "cacheReadInputTokens": 67407,
+    "contextWindow": 200000,
+    "contextTokens": 68410,
+    "percentage": 34,
+    "contextWindowIsAuthoritative": true
+  }
+}

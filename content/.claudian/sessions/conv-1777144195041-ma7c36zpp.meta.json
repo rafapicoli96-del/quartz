@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777144195041-ma7c36zpp",
+  "providerId": "claude",
+  "title": "Eu não consigo ver qual livro você está mencion...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777144195041,
+  "updatedAt": 1777153042073,
+  "lastResponseAt": 1777144760420,
+  "sessionId": "67a1bcd9-4b5c-4e35-8b55-00ca5006f8ff",
+  "providerState": {
+    "providerSessionId": "67a1bcd9-4b5c-4e35-8b55-00ca5006f8ff"
+  },
+  "currentNote": "00 Notes/Books/Mindset & Performance/The Art of Learning - Josh Waltzkin.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 500,
+    "cacheReadInputTokens": 72953,
+    "contextWindow": 200000,
+    "contextTokens": 73463,
+    "percentage": 37,
+    "contextWindowIsAuthoritative": true
+  }
+}

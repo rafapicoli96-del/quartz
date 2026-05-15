@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777153127916-ff8fkjuf7",
+  "providerId": "claude",
+  "title": "**Song Log: Mac Miller - Self Care — Análise de...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777153127916,
+  "updatedAt": 1777208018921,
+  "lastResponseAt": 1777153342094,
+  "sessionId": "120c75d1-bcf4-4aea-919c-c984fff500ec",
+  "providerState": {
+    "providerSessionId": "120c75d1-bcf4-4aea-919c-c984fff500ec"
+  },
+  "currentNote": "03 Projects/Music Mastery/04 Skills/song-log-generator.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 3556,
+    "cacheReadInputTokens": 74905,
+    "contextWindow": 200000,
+    "contextTokens": 78469,
+    "percentage": 39,
+    "contextWindowIsAuthoritative": true
+  }
+}

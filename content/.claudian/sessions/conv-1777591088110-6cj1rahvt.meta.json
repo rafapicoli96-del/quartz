@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777591088110-6cj1rahvt",
+  "providerId": "claude",
+  "title": "I'll grab the video info to generate an accurat...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777591088110,
+  "updatedAt": 1777598829457,
+  "lastResponseAt": 1777591192616,
+  "sessionId": "f20be2de-2dcc-44d0-a463-ae93bd5b7eac",
+  "providerState": {
+    "providerSessionId": "f20be2de-2dcc-44d0-a463-ae93bd5b7eac"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 5141,
+    "cacheReadInputTokens": 58930,
+    "contextWindow": 200000,
+    "contextTokens": 64079,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

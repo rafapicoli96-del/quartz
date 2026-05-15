@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776428038550-cau4faoef",
+  "providerId": "claude",
+  "title": "Reschedule tasks to next week",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776428038550,
+  "updatedAt": 1776467500790,
+  "lastResponseAt": 1776428107935,
+  "sessionId": "be0ec152-7099-4e31-83ca-440ba4fe2275",
+  "providerState": {
+    "providerSessionId": "be0ec152-7099-4e31-83ca-440ba4fe2275"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 528,
+    "cacheReadInputTokens": 49952,
+    "contextWindow": 200000,
+    "contextTokens": 50488,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}

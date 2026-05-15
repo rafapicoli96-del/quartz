@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776272689015-rrgjdrxgx",
+  "providerId": "claude",
+  "title": "Build gamified RPG character tracker",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776272689015,
+  "updatedAt": 1776275733952,
+  "lastResponseAt": 1776275728702,
+  "sessionId": "6e4378fc-8b3b-45ae-9295-8eea28ca5d2d",
+  "providerState": {
+    "providerSessionId": "6e4378fc-8b3b-45ae-9295-8eea28ca5d2d"
+  },
+  "currentNote": "NÃO ESQUECER de testar.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 515,
+    "cacheReadInputTokens": 125512,
+    "contextWindow": 200000,
+    "contextTokens": 126037,
+    "percentage": 63,
+    "contextWindowIsAuthoritative": true
+  }
+}

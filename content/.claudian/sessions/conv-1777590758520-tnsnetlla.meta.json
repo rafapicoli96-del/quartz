@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777590758520-tnsnetlla",
+  "providerId": "claude",
+  "title": "I need to fetch the video details first. Let me...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777590758520,
+  "updatedAt": 1777631861870,
+  "lastResponseAt": 1777590857264,
+  "sessionId": "7f33e925-47cd-400e-830a-c3ddae19b776",
+  "providerState": {
+    "providerSessionId": "7f33e925-47cd-400e-830a-c3ddae19b776"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 3935,
+    "cacheReadInputTokens": 57793,
+    "contextWindow": 200000,
+    "contextTokens": 61736,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

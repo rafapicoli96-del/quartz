@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776702462102-eizgmvk0w",
+  "providerId": "claude",
+  "title": "Debug error",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776702462102,
+  "updatedAt": 1776702611736,
+  "lastResponseAt": 1776702553051,
+  "sessionId": "8f90dd60-f746-4f7d-b9e8-fd4faebd287b",
+  "providerState": {
+    "providerSessionId": "8f90dd60-f746-4f7d-b9e8-fd4faebd287b"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 137,
+    "cacheReadInputTokens": 25112,
+    "contextWindow": 200000,
+    "contextTokens": 25250,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

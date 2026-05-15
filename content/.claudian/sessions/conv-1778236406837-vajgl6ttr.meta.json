@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778236406837-vajgl6ttr",
+  "providerId": "claude",
+  "title": "Food Log — Dia 7 de Maio",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778236406837,
+  "updatedAt": 1778251040614,
+  "lastResponseAt": 1778236467423,
+  "sessionId": "c4bded5b-5ef3-4c36-bf95-8108514bec16",
+  "providerState": {
+    "providerSessionId": "c4bded5b-5ef3-4c36-bf95-8108514bec16"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-07.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 604,
+    "cacheReadInputTokens": 60468,
+    "contextWindow": 200000,
+    "contextTokens": 61080,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

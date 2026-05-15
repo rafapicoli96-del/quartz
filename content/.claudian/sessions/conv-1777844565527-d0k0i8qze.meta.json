@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777844565527-d0k0i8qze",
+  "providerId": "claude",
+  "title": "da uma formatadinha melhor por favor, são tracks q...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777844565528,
+  "updatedAt": 1777916146758,
+  "lastResponseAt": 1777849775562,
+  "sessionId": "c63940a1-8008-4d1d-b15b-1cd2f74490c2",
+  "providerState": {
+    "providerSessionId": "c63940a1-8008-4d1d-b15b-1cd2f74490c2"
+  },
+  "currentNote": "zPICKUP - Triads misc tracks.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 306,
+    "cacheReadInputTokens": 53590,
+    "contextWindow": 200000,
+    "contextTokens": 53904,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}

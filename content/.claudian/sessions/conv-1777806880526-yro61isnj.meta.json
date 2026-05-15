@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777806880526-yro61isnj",
+  "providerId": "claude",
+  "title": "Preciso de acesso a Bash para executar o skill ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777806880526,
+  "updatedAt": 1777807436047,
+  "lastResponseAt": 1777807015963,
+  "sessionId": "0ee1148c-7fd6-45b8-8939-44a107d9ac89",
+  "providerState": {
+    "providerSessionId": "0ee1148c-7fd6-45b8-8939-44a107d9ac89"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 3976,
+    "cacheReadInputTokens": 35478,
+    "contextWindow": 200000,
+    "contextTokens": 39455,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

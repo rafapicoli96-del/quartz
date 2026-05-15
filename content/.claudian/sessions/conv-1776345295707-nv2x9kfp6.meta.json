@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776345295707-nv2x9kfp6",
+  "providerId": "claude",
+  "title": "Sync today's progress",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776345295707,
+  "updatedAt": 1776345501314,
+  "lastResponseAt": 1776345346111,
+  "sessionId": "30ecad26-667b-48ee-8a75-45e955e745de",
+  "providerState": {
+    "providerSessionId": "30ecad26-667b-48ee-8a75-45e955e745de"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 4520,
+    "cacheReadInputTokens": 43771,
+    "contextWindow": 200000,
+    "contextTokens": 48299,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

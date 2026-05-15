@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778669250074-mc7fs80ha",
+  "providerId": "claude",
+  "title": "Parece que você não rodou o nosso Agente das 6 da ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778669250075,
+  "updatedAt": 1778691534280,
+  "lastResponseAt": 1778670362653,
+  "sessionId": "aae921a7-6597-4b0e-a55d-055efd006fbb",
+  "providerState": {
+    "providerSessionId": "aae921a7-6597-4b0e-a55d-055efd006fbb"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2026,
+    "cacheReadInputTokens": 81425,
+    "contextWindow": 200000,
+    "contextTokens": 83452,
+    "percentage": 42,
+    "contextWindowIsAuthoritative": true
+  }
+}

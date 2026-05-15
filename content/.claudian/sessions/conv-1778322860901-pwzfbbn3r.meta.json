@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778322860901-pwzfbbn3r",
+  "providerId": "claude",
+  "title": "Vou ler o Today.md e identificar qual nota você...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778322860902,
+  "updatedAt": 1778325184488,
+  "lastResponseAt": 1778323036996,
+  "sessionId": "dcba5de6-508d-4198-996b-d39cee93cac7",
+  "providerState": {
+    "providerSessionId": "dcba5de6-508d-4198-996b-d39cee93cac7"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-08.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 391,
+    "cacheReadInputTokens": 42648,
+    "contextWindow": 200000,
+    "contextTokens": 43040,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

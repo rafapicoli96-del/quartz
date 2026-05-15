@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777677618566-aro3md2s6",
+  "providerId": "claude",
+  "title": "Vou ler a nota para ver as tarefas novas que vo...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777677618566,
+  "updatedAt": 1777723327653,
+  "lastResponseAt": 1777678352003,
+  "sessionId": "07745364-481d-45d3-a477-a9c54b8b9c21",
+  "providerState": {
+    "providerSessionId": "07745364-481d-45d3-a477-a9c54b8b9c21"
+  },
+  "currentNote": "Master To-Do.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 566,
+    "cacheReadInputTokens": 32282,
+    "contextWindow": 200000,
+    "contextTokens": 32849,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

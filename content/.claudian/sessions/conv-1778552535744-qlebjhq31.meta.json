@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778552535744-qlebjhq31",
+  "providerId": "claude",
+  "title": "Não consigo ver qual nota você está vendo agora...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778552535744,
+  "updatedAt": 1778585598246,
+  "lastResponseAt": 1778552675487,
+  "sessionId": "53cad9d7-c747-463f-973b-aee8e8c4844f",
+  "providerState": {
+    "providerSessionId": "53cad9d7-c747-463f-973b-aee8e8c4844f"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 166,
+    "cacheReadInputTokens": 34780,
+    "contextWindow": 200000,
+    "contextTokens": 34947,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

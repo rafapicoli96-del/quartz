@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777890693854-y8nifpgfp",
+  "providerId": "claude",
+  "title": "Vou ver o que tá acontecendo. Deixa eu ler o To...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777890693854,
+  "updatedAt": 1777895401557,
+  "lastResponseAt": 1777891237140,
+  "sessionId": "2ff7eb8d-fbaa-45d1-aae7-0e1167fefd0c",
+  "providerState": {
+    "providerSessionId": "2ff7eb8d-fbaa-45d1-aae7-0e1167fefd0c"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-03.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 946,
+    "cacheReadInputTokens": 76683,
+    "contextWindow": 200000,
+    "contextTokens": 77630,
+    "percentage": 39,
+    "contextWindowIsAuthoritative": false
+  }
+}

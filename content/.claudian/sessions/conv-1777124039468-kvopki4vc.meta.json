@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777124039468-kvopki4vc",
+  "providerId": "claude",
+  "title": "Vou ler a nota primeiro para entender a estrutu...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777124039469,
+  "updatedAt": 1777153044187,
+  "lastResponseAt": 1777124312314,
+  "sessionId": "095ff94f-418a-4b4b-a3d4-630e1e3e6fa5",
+  "providerState": {
+    "providerSessionId": "095ff94f-418a-4b4b-a3d4-630e1e3e6fa5"
+  },
+  "currentNote": "Outlive - The Science and Art of Longevity - Peter Attia.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 795,
+    "cacheReadInputTokens": 63999,
+    "contextWindow": 200000,
+    "contextTokens": 64802,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

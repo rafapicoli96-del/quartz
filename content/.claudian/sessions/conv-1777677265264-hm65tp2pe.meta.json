@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777677265264-hm65tp2pe",
+  "providerId": "claude",
+  "title": "# Organizar Notas de Justin Sung\n\nVou ajudar co...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777677265264,
+  "updatedAt": 1777677395431,
+  "lastResponseAt": 1777677384319,
+  "sessionId": "c44c6a3c-29ba-4272-aabc-dd08127e15b3",
+  "providerState": {
+    "providerSessionId": "c44c6a3c-29ba-4272-aabc-dd08127e15b3"
+  },
+  "currentNote": "Reflexões.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 535,
+    "cacheReadInputTokens": 52651,
+    "contextWindow": 200000,
+    "contextTokens": 53194,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}

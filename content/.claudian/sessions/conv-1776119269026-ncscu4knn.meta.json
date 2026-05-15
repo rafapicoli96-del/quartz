@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776119269026-ncscu4knn",
+  "providerId": "claude",
+  "title": "Enviar arquivos para Peu",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776119269027,
+  "updatedAt": 1776128504135,
+  "lastResponseAt": 1776119383612,
+  "sessionId": "93c7044e-df07-411a-bff7-00c1a1e448b1",
+  "providerState": {
+    "providerSessionId": "93c7044e-df07-411a-bff7-00c1a1e448b1"
+  },
+  "currentNote": "Work — Tarefas Ativas.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 374,
+    "cacheReadInputTokens": 19577,
+    "contextWindow": 200000,
+    "contextTokens": 19952,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776303036122-2rprzome4",
+  "providerId": "claude",
+  "title": "Rename INTERMED guitar files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776303036122,
+  "updatedAt": 1776303399037,
+  "lastResponseAt": 1776303180429,
+  "sessionId": "89acf8b6-130e-4b18-a975-c3df805b22b3",
+  "providerState": {
+    "providerSessionId": "89acf8b6-130e-4b18-a975-c3df805b22b3"
+  },
+  "currentNote": "05 Skills/pickup-track-renamer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2004,
+    "cacheReadInputTokens": 49490,
+    "contextWindow": 200000,
+    "contextTokens": 51502,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

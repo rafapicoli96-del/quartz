@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776042803886-c8ulnx9qo",
+  "providerId": "claude",
+  "title": "Design daily journaling system for Obsidian",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776042803886,
+  "updatedAt": 1776116466389,
+  "lastResponseAt": 1776044748261,
+  "sessionId": "3753cedc-73d3-4bf1-abdb-ead72a9bf6c0",
+  "providerState": {
+    "providerSessionId": "3753cedc-73d3-4bf1-abdb-ead72a9bf6c0"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 869,
+    "cacheReadInputTokens": 40747,
+    "contextWindow": 200000,
+    "contextTokens": 41619,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

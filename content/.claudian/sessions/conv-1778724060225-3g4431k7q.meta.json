@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778724060225-3g4431k7q",
+  "providerId": "claude",
+  "title": "Vou ler o Today.md para capturar tudo que você ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778724060226,
+  "updatedAt": 1778755117656,
+  "lastResponseAt": 1778725044643,
+  "sessionId": "f26e9d37-4281-40cf-bd28-bd019ed6627c",
+  "providerState": {
+    "providerSessionId": "f26e9d37-4281-40cf-bd28-bd019ed6627c"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-13.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 941,
+    "cacheReadInputTokens": 104226,
+    "contextWindow": 200000,
+    "contextTokens": 105168,
+    "percentage": 53,
+    "contextWindowIsAuthoritative": true
+  }
+}

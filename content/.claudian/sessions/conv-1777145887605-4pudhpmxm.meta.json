@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777145887605-4pudhpmxm",
+  "providerId": "claude",
+  "title": "**Convertendo a Namorada em Gamer: Recomendaçõe...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777145887605,
+  "updatedAt": 1777147940879,
+  "lastResponseAt": 1777146214866,
+  "sessionId": "5898b286-2ca2-45a4-a711-dc765b2c940f",
+  "providerState": {
+    "providerSessionId": "5898b286-2ca2-45a4-a711-dc765b2c940f"
+  },
+  "currentNote": "07 Etc/Jogos pra eu jogar com a Mari.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 8734,
+    "cacheReadInputTokens": 54695,
+    "contextWindow": 200000,
+    "contextTokens": 63437,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

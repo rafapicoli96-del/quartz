@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778638083387-6ohxh6f9f",
+  "providerId": "claude",
+  "title": "Olá! Vou procurar pelos journals recentes com p...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778638083388,
+  "updatedAt": 1778669520078,
+  "lastResponseAt": 1778638178438,
+  "sessionId": "c06af6e2-5072-448e-8138-b991b6b866bf",
+  "providerState": {
+    "providerSessionId": "c06af6e2-5072-448e-8138-b991b6b866bf"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-12.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 520,
+    "cacheReadInputTokens": 36271,
+    "contextWindow": 200000,
+    "contextTokens": 36792,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

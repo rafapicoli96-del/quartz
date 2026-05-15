@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778552941877-q212ltxpe",
+  "providerId": "claude",
+  "title": "Vou ler o journal de hoje para ver o que você e...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778552941878,
+  "updatedAt": 1778584672615,
+  "lastResponseAt": 1778553080334,
+  "sessionId": "f3bc952f-415a-425d-8061-9dd3bf62bb18",
+  "providerState": {
+    "providerSessionId": "f3bc952f-415a-425d-8061-9dd3bf62bb18"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-09.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2510,
+    "cacheReadInputTokens": 38766,
+    "contextWindow": 200000,
+    "contextTokens": 41277,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776305705348-of7g3p5y9",
+  "providerId": "claude",
+  "title": "Adicionar seção de quick insights",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776305705348,
+  "updatedAt": 1776306737611,
+  "lastResponseAt": 1776305726355,
+  "sessionId": "0e260f1e-a70c-403a-a154-0f6b24e83154",
+  "providerState": {
+    "providerSessionId": "0e260f1e-a70c-403a-a154-0f6b24e83154"
+  },
+  "currentNote": "00 Notes/Books/Resumo Outsmarting Reality - Análise Completa.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1051,
+    "cacheReadInputTokens": 52411,
+    "contextWindow": 200000,
+    "contextTokens": 53470,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776427120111-1aoude8bb",
+  "providerId": "claude",
+  "title": "Expand music study genres",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776427120112,
+  "updatedAt": 1776643315961,
+  "lastResponseAt": 1776468582775,
+  "sessionId": "5876b898-d5f4-40a9-9975-d579bd3afe81",
+  "providerState": {
+    "providerSessionId": "5876b898-d5f4-40a9-9975-d579bd3afe81"
+  },
+  "currentNote": "03 Projects/Music Mastery/00 Queue/(C) Artist Study List.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 869,
+    "cacheReadInputTokens": 35212,
+    "contextWindow": 200000,
+    "contextTokens": 36089,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777387639125-ez2aex7q9",
+  "providerId": "claude",
+  "title": "**Debugar Daily Agent — Processos de 6h SP**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777387639125,
+  "updatedAt": 1777388665304,
+  "lastResponseAt": 1777388449777,
+  "sessionId": "f4014c15-d1a9-43a4-9051-f523c5062091",
+  "providerState": {
+    "providerSessionId": "f4014c15-d1a9-43a4-9051-f523c5062091"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 749,
+    "cacheReadInputTokens": 132137,
+    "contextWindow": 200000,
+    "contextTokens": 132894,
+    "percentage": 66,
+    "contextWindowIsAuthoritative": true
+  }
+}

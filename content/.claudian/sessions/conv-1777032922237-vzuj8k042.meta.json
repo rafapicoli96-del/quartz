@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777032922237-vzuj8k042",
+  "providerId": "claude",
+  "title": "Vou te dar uns dados a mais pro food log desse dia...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777032922238,
+  "updatedAt": 1777037553259,
+  "lastResponseAt": 1777033011865,
+  "sessionId": "d4562421-ae13-4f64-b7da-d64612326c6d",
+  "providerState": {
+    "providerSessionId": "d4562421-ae13-4f64-b7da-d64612326c6d"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-23.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 853,
+    "cacheReadInputTokens": 44887,
+    "contextWindow": 200000,
+    "contextTokens": 45748,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

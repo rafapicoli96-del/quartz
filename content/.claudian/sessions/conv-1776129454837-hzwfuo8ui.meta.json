@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776129454837-hzwfuo8ui",
+  "providerId": "claude",
+  "title": "Clarify Recall Holy Diver concept",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776129454837,
+  "updatedAt": 1776131309406,
+  "lastResponseAt": 1776130873861,
+  "sessionId": "c78c9988-534c-49bc-854c-5a31a561107c",
+  "providerState": {
+    "providerSessionId": "c78c9988-534c-49bc-854c-5a31a561107c"
+  },
+  "currentNote": "Work — Tarefas Ativas.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 228,
+    "cacheReadInputTokens": 19196,
+    "contextWindow": 200000,
+    "contextTokens": 19425,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778275906107-kqxeem04q",
+  "providerId": "claude",
+  "title": "Vou rodar a skill do YouTube Summarizer para es...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778275906107,
+  "updatedAt": 1778322503115,
+  "lastResponseAt": 1778276181264,
+  "sessionId": "ec404137-14fb-41ed-b7ca-f51118cf06f7",
+  "providerState": {
+    "providerSessionId": "ec404137-14fb-41ed-b7ca-f51118cf06f7"
+  },
+  "currentNote": "zMaster To-Do.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 309,
+    "cacheReadInputTokens": 61283,
+    "contextWindow": 200000,
+    "contextTokens": 61593,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

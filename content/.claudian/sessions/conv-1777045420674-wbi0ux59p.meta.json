@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777045420674-wbi0ux59p",
+  "providerId": "claude",
+  "title": "# Análise de Extratos Bancários 2026 — Revisão ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777045420675,
+  "updatedAt": 1777059554304,
+  "lastResponseAt": 1777047036158,
+  "sessionId": "b3496255-81ca-4fa9-a6cb-103981e4919a",
+  "providerState": {
+    "providerSessionId": "b3496255-81ca-4fa9-a6cb-103981e4919a"
+  },
+  "currentNote": "03 Projects/Finance/CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 730,
+    "cacheReadInputTokens": 129107,
+    "contextWindow": 200000,
+    "contextTokens": 129838,
+    "percentage": 65,
+    "contextWindowIsAuthoritative": true
+  }
+}

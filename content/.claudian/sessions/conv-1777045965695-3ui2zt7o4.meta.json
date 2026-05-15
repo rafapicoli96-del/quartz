@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777045965695-3ui2zt7o4",
+  "providerId": "claude",
+  "title": "**Atualizar qualidade de sono no journal — nota...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777045965695,
+  "updatedAt": 1777046681298,
+  "lastResponseAt": 1777046172696,
+  "sessionId": "bbe9ee4e-261e-4763-ae5d-3d2298488941",
+  "providerState": {
+    "providerSessionId": "bbe9ee4e-261e-4763-ae5d-3d2298488941"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-23.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 689,
+    "cacheReadInputTokens": 54943,
+    "contextWindow": 200000,
+    "contextTokens": 55640,
+    "percentage": 28,
+    "contextWindowIsAuthoritative": true
+  }
+}

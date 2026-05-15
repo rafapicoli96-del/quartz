@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777550901600-5q88q0nlw",
+  "providerId": "claude",
+  "title": "Não consigo acessar ou assistir vídeos do YouTu...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777550901600,
+  "updatedAt": 1777584437425,
+  "lastResponseAt": 1777551390071,
+  "sessionId": "464331dd-e87c-44ae-bfb9-5c29a2837f55",
+  "providerState": {
+    "providerSessionId": "464331dd-e87c-44ae-bfb9-5c29a2837f55"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 365,
+    "cacheReadInputTokens": 41783,
+    "contextWindow": 200000,
+    "contextTokens": 42149,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

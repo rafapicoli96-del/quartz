@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776644655548-zn1qur1ns",
+  "providerId": "claude",
+  "title": "Generate Music Production Briefing",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776644655548,
+  "updatedAt": 1776644890923,
+  "lastResponseAt": 1776644711873,
+  "sessionId": "edc965d8-eeba-42c8-be7d-68d75deb3690",
+  "providerState": {
+    "providerSessionId": "edc965d8-eeba-42c8-be7d-68d75deb3690"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 5256,
+    "cacheReadInputTokens": 25377,
+    "contextWindow": 200000,
+    "contextTokens": 30634,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

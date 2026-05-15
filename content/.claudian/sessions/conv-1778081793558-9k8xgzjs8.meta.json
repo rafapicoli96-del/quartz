@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778081793558-9k8xgzjs8",
+  "providerId": "claude",
+  "title": "**Registrar Treino de Força - 05/06/2026**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778081793558,
+  "updatedAt": 1778153093339,
+  "lastResponseAt": 1778081941473,
+  "sessionId": "db85aa9f-abbf-4640-b573-59a573270e9a",
+  "providerState": {
+    "providerSessionId": "db85aa9f-abbf-4640-b573-59a573270e9a"
+  },
+  "currentNote": "(C) Gym Log.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 708,
+    "cacheReadInputTokens": 31454,
+    "contextWindow": 200000,
+    "contextTokens": 32163,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

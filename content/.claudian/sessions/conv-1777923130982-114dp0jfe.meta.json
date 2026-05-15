@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777923130982-114dp0jfe",
+  "providerId": "claude",
+  "title": "**Track Karl — Concluído**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777923130982,
+  "updatedAt": 1777975815804,
+  "lastResponseAt": 1777923146674,
+  "sessionId": "b4af3d94-2044-4d02-88cf-f70c81b0f94f",
+  "providerState": {
+    "providerSessionId": "b4af3d94-2044-4d02-88cf-f70c81b0f94f"
+  },
+  "currentNote": "Work — Tarefas Ativas.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 329,
+    "cacheReadInputTokens": 50787,
+    "contextWindow": 200000,
+    "contextTokens": 51124,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

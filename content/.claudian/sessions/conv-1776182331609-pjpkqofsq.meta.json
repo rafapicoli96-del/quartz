@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776182331609-pjpkqofsq",
+  "providerId": "claude",
+  "title": "Registrar composição do shake proteico",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776182331609,
+  "updatedAt": 1776257186377,
+  "lastResponseAt": 1776182775161,
+  "sessionId": "b4fb58b7-cbf7-436c-a4a0-21a65016fdb6",
+  "providerState": {
+    "providerSessionId": "b4fb58b7-cbf7-436c-a4a0-21a65016fdb6"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-14.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 1124,
+    "cacheReadInputTokens": 24337,
+    "contextWindow": 200000,
+    "contextTokens": 25464,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

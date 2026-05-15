@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778781976732-nxacb97tu",
+  "providerId": "claude",
+  "title": "Vou procurar a pasta Pickup Remote e os invoice...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778781976732,
+  "updatedAt": 1778784926038,
+  "lastResponseAt": 1778782008214,
+  "sessionId": "0aef1d1a-eeaf-48ba-85ae-3eac641b2b0a",
+  "providerState": {
+    "providerSessionId": "0aef1d1a-eeaf-48ba-85ae-3eac641b2b0a"
+  },
+  "currentNote": "03 Projects/Income/Pickup Remote/Intermediate Learning Pathway v2.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1836,
+    "cacheReadInputTokens": 29607,
+    "contextWindow": 200000,
+    "contextTokens": 31444,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

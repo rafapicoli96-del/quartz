@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778625961433-9smf2apqf",
+  "providerId": "claude",
+  "title": "essa é uma pasta de estudo ativo de socialização",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778625961433,
+  "updatedAt": 1778638088159,
+  "lastResponseAt": 1778628681325,
+  "sessionId": "0ab6e353-a0bf-4dac-9ea6-5315502fdc7e",
+  "providerState": {
+    "providerSessionId": "0ab6e353-a0bf-4dac-9ea6-5315502fdc7e"
+  },
+  "currentNote": "03 Projects/Soc Mastery/Estudos ativos.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 2239,
+    "cacheReadInputTokens": 38461,
+    "contextWindow": 200000,
+    "contextTokens": 40703,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776644064210-7rjzyr70z",
+  "providerId": "claude",
+  "title": "Integrate Spotify for study playlists",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776644064210,
+  "updatedAt": 1776824262487,
+  "lastResponseAt": 1776823953735,
+  "sessionId": "fefe6da4-07bb-4c17-b3cc-6459200271eb",
+  "providerState": {
+    "providerSessionId": "fefe6da4-07bb-4c17-b3cc-6459200271eb"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 202,
+    "cacheReadInputTokens": 38291,
+    "contextWindow": 200000,
+    "contextTokens": 38496,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

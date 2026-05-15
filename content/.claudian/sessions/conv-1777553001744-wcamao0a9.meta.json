@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777553001744-wcamao0a9",
+  "providerId": "claude",
+  "title": "Vou resumir esse vídeo do YouTube usando a skil...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777553001744,
+  "updatedAt": 1777553504651,
+  "lastResponseAt": 1777553183224,
+  "sessionId": "6c7ac87a-a3f3-4825-80e7-abfd6e4970d8",
+  "providerState": {
+    "providerSessionId": "6c7ac87a-a3f3-4825-80e7-abfd6e4970d8"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 398,
+    "cacheReadInputTokens": 38022,
+    "contextWindow": 200000,
+    "contextTokens": 38423,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778784772555-ipvg6v3av",
+  "providerId": "claude",
+  "title": "May 14, 03:52 PM",
+  "createdAt": 1778784772555,
+  "updatedAt": 1778784811793,
+  "lastResponseAt": 1778784811793,
+  "sessionId": "97f29c1c-c636-45f2-9b8e-cbc4c6962c44",
+  "providerState": {
+    "providerSessionId": "97f29c1c-c636-45f2-9b8e-cbc4c6962c44"
+  },
+  "currentNote": "05 Skills/whatsapp-responder.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4739,
+    "cacheReadInputTokens": 29707,
+    "contextWindow": 200000,
+    "contextTokens": 34447,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

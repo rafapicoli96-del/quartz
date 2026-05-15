@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776908780127-x6czs8qja",
+  "providerId": "claude",
+  "title": "Make today's music briefing",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776908780128,
+  "updatedAt": 1776909444711,
+  "lastResponseAt": 1776908865423,
+  "sessionId": "54cead46-56c6-49fa-94d3-1e29fef356ae",
+  "providerState": {
+    "providerSessionId": "54cead46-56c6-49fa-94d3-1e29fef356ae"
+  },
+  "currentNote": "00 Notes/Daily Briefings/2026-04-21 — Music Briefing.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

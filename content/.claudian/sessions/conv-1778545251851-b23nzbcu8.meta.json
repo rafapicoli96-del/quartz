@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778545251851-b23nzbcu8",
+  "providerId": "claude",
+  "title": "# Export Apple Notes to Obsidian with Images\n\nI...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778545251851,
+  "updatedAt": 1778550634754,
+  "lastResponseAt": 1778545637130,
+  "sessionId": "2075256a-b670-4b4c-be3f-122cf35b70e4",
+  "providerState": {
+    "providerSessionId": "2075256a-b670-4b4c-be3f-122cf35b70e4"
+  },
+  "currentNote": "Mix Jaycen.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 146,
+    "cacheReadInputTokens": 62595,
+    "contextWindow": 200000,
+    "contextTokens": 62742,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

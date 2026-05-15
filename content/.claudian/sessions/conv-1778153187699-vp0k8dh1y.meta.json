@@ -1,0 +1,22 @@
+{
+  "id": "conv-1778153187699-vp0k8dh1y",
+  "providerId": "claude",
+  "title": "Tá meio estranho aqui, ó",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778153187699,
+  "updatedAt": 1778153605077,
+  "lastResponseAt": 1778153189674,
+  "sessionId": "aab338d9-baef-4152-b0bf-7d900300ec87",
+  "providerState": {
+    "providerSessionId": "aab338d9-baef-4152-b0bf-7d900300ec87"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

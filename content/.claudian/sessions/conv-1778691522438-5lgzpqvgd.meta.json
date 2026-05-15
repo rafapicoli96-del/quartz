@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778691522438-5lgzpqvgd",
+  "providerId": "claude",
+  "title": "**Treino na Academia — Supino + Supersets (Ante...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778691522438,
+  "updatedAt": 1778720149990,
+  "lastResponseAt": 1778692084587,
+  "sessionId": "df474bb9-7211-4490-ace4-cf2d29af427b",
+  "providerState": {
+    "providerSessionId": "df474bb9-7211-4490-ace4-cf2d29af427b"
+  },
+  "currentNote": "(C) Gym Log.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 193,
+    "cacheReadInputTokens": 32173,
+    "contextWindow": 200000,
+    "contextTokens": 32367,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

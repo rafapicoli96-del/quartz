@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776345564888-a8mppgszf",
+  "providerId": "claude",
+  "title": "Process escondidinho for food log analysis",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776345564889,
+  "updatedAt": 1776352401913,
+  "lastResponseAt": 1776346019515,
+  "sessionId": "27f051a9-2a13-4ef9-a348-e9bcbe875d7b",
+  "providerState": {
+    "providerSessionId": "27f051a9-2a13-4ef9-a348-e9bcbe875d7b"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-15.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 486,
+    "cacheReadInputTokens": 109031,
+    "contextWindow": 200000,
+    "contextTokens": 109525,
+    "percentage": 55,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778584749417-rd0clq6z0",
+  "providerId": "claude",
+  "title": "# Como Alterar o Agente Diário — Processo Simpl...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778584749417,
+  "updatedAt": 1778669520967,
+  "lastResponseAt": 1778640240678,
+  "sessionId": "9dee3257-6746-4073-b95d-c2bf114c2e8a",
+  "providerState": {
+    "providerSessionId": "9dee3257-6746-4073-b95d-c2bf114c2e8a"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-11.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

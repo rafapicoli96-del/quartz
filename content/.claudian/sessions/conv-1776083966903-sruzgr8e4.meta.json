@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776083966903-sruzgr8e4",
+  "providerId": "claude",
+  "title": "Adiciona L teanina pra minha suplementação - a dos...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776083966903,
+  "updatedAt": 1776092646625,
+  "lastResponseAt": 1776083969821,
+  "sessionId": "985d90b9-5aea-43fe-8d11-098bccea3c8f",
+  "providerState": {
+    "providerSessionId": "985d90b9-5aea-43fe-8d11-098bccea3c8f"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

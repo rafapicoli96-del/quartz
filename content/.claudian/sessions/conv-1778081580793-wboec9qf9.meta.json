@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778081580793-wboec9qf9",
+  "providerId": "claude",
+  "title": "Preciso do link do vídeo para começar. Você pod...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778081580793,
+  "updatedAt": 1778153094337,
+  "lastResponseAt": 1778082605747,
+  "sessionId": "71c7fffa-69b7-452b-ae77-edaf7d3d51d1",
+  "providerState": {
+    "providerSessionId": "71c7fffa-69b7-452b-ae77-edaf7d3d51d1"
+  },
+  "currentNote": "00 Notes/Vídeos/Leon Hendrix/3 Níveis de Motivação — Combustível para Ambição.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1529,
+    "cacheReadInputTokens": 53534,
+    "contextWindow": 200000,
+    "contextTokens": 55064,
+    "percentage": 28,
+    "contextWindowIsAuthoritative": true
+  }
+}

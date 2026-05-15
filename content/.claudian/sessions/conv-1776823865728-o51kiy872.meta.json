@@ -1,0 +1,21 @@
+{
+  "id": "conv-1776823865728-o51kiy872",
+  "providerId": "claude",
+  "title": "Clarify automatic file access",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776823865728,
+  "updatedAt": 1776824260232,
+  "lastResponseAt": 1776823877155,
+  "sessionId": null,
+  "providerState": {},
+  "currentNote": "03 Projects/Music Mastery/00 Queue/(C) Artist Study List.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 10363,
+    "cacheReadInputTokens": 11037,
+    "contextWindow": 200000,
+    "contextTokens": 21403,
+    "percentage": 11
+  }
+}

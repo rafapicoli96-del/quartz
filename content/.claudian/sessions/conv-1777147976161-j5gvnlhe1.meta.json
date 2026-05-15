@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777147976161-j5gvnlhe1",
+  "providerId": "claude",
+  "title": "Gostei demais disso aqui também: 9",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777147976161,
+  "updatedAt": 1777153041624,
+  "lastResponseAt": 1777148735263,
+  "sessionId": "491de8ed-d6f0-4487-9ba3-ace98c36acb8",
+  "providerState": {
+    "providerSessionId": "491de8ed-d6f0-4487-9ba3-ace98c36acb8"
+  },
+  "currentNote": "00 Notes/Books/!INSIGHTS PREFERIDOS!.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1831,
+    "cacheReadInputTokens": 41750,
+    "contextWindow": 200000,
+    "contextTokens": 43589,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

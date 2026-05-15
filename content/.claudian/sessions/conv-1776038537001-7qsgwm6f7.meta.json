@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776038537001-7qsgwm6f7",
+  "providerId": "claude",
+  "title": "Explore recent anxiety patterns",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776038537001,
+  "updatedAt": 1776116446071,
+  "lastResponseAt": 1776039402055,
+  "sessionId": "a35c9332-cae9-4486-98c0-4fddc521efef",
+  "providerState": {
+    "providerSessionId": "a35c9332-cae9-4486-98c0-4fddc521efef"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 1575,
+    "cacheReadInputTokens": 16026,
+    "contextWindow": 200000,
+    "contextTokens": 17604,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

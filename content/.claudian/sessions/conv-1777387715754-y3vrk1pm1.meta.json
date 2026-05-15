@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777387715754-y3vrk1pm1",
+  "providerId": "claude",
+  "title": "Vou fazer um audit completo dos seus journals r...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777387715754,
+  "updatedAt": 1777388903750,
+  "lastResponseAt": 1777388845909,
+  "sessionId": "580f57e3-ab32-4546-ba1a-bfe5d699a408",
+  "providerState": {
+    "providerSessionId": "580f57e3-ab32-4546-ba1a-bfe5d699a408"
+  },
+  "currentNote": "Master To-Do.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 21282,
+    "cacheReadInputTokens": 116447,
+    "contextWindow": 200000,
+    "contextTokens": 137730,
+    "percentage": 69,
+    "contextWindowIsAuthoritative": true
+  }
+}

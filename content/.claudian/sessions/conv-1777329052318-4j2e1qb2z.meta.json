@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777329052318-4j2e1qb2z",
+  "providerId": "claude",
+  "title": "**Situação M — Clareza e Decisão**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777329052318,
+  "updatedAt": 1777379333959,
+  "lastResponseAt": 1777330404544,
+  "sessionId": "e92103b4-814d-4f8c-84d8-81a1498a325e",
+  "providerState": {
+    "providerSessionId": "e92103b4-814d-4f8c-84d8-81a1498a325e"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-26.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 971,
+    "cacheReadInputTokens": 61523,
+    "contextWindow": 200000,
+    "contextTokens": 62502,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

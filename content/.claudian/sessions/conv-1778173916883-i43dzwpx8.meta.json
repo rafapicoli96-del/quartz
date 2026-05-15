@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778173916883-i43dzwpx8",
+  "providerId": "claude",
+  "title": "I'll run the YouTube Video Summarizer skill on ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778173916883,
+  "updatedAt": 1778190752660,
+  "lastResponseAt": 1778174172690,
+  "sessionId": "e31d03f7-50c7-4d68-a7f6-3b040558b61f",
+  "providerState": {
+    "providerSessionId": "e31d03f7-50c7-4d68-a7f6-3b040558b61f"
+  },
+  "currentNote": "00 Notes/Vídeos/Joe Hudson/Procrastination/I Don't Procrastinate Anymore — Here's What Changed.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4300,
+    "cacheReadInputTokens": 48593,
+    "contextWindow": 200000,
+    "contextTokens": 52894,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

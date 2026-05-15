@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777033276955-m08mgu27d",
+  "providerId": "claude",
+  "title": "Preciso entender melhor o que você quer. Quando...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777033276955,
+  "updatedAt": 1777037552170,
+  "lastResponseAt": 1777033374911,
+  "sessionId": "1264ead9-98a5-4608-bf05-d02416584010",
+  "providerState": {
+    "providerSessionId": "1264ead9-98a5-4608-bf05-d02416584010"
+  },
+  "currentNote": "00 Notes/Saúde & Performance/(C) Macro Tracker.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1024,
+    "cacheReadInputTokens": 53330,
+    "contextWindow": 200000,
+    "contextTokens": 54362,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}

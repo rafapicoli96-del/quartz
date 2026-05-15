@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776092770398-c0hv8t1ba",
+  "providerId": "claude",
+  "title": "Debug Remotely Save sync",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776092770398,
+  "updatedAt": 1776093291512,
+  "lastResponseAt": 1776093246685,
+  "sessionId": "67e989dd-5087-4b41-9518-b70a0a6c287b",
+  "providerState": {
+    "providerSessionId": "67e989dd-5087-4b41-9518-b70a0a6c287b"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 46677,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 46687,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

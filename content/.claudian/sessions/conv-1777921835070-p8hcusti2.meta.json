@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777921835070-p8hcusti2",
+  "providerId": "claude",
+  "title": "# Batch Rename PICKUP TRIADS Files with LP-25-T...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777921835070,
+  "updatedAt": 1777923126352,
+  "lastResponseAt": 1777922023599,
+  "sessionId": "f819b616-e11f-4cfa-b042-59851f18f14c",
+  "providerState": {
+    "providerSessionId": "f819b616-e11f-4cfa-b042-59851f18f14c"
+  },
+  "currentNote": "05 Skills/pickup-track-renamer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 633,
+    "cacheReadInputTokens": 56681,
+    "contextWindow": 200000,
+    "contextTokens": 57322,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

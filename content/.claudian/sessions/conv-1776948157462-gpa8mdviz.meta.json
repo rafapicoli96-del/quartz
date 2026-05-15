@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776948157462-gpa8mdviz",
+  "providerId": "claude",
+  "title": "Vou executar o music briefing de hoje. Deixa eu...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776948157463,
+  "updatedAt": 1776968600994,
+  "lastResponseAt": 1776959929896,
+  "sessionId": "191f7c46-8724-493f-b72d-1101ea63370a",
+  "providerState": {
+    "providerSessionId": "191f7c46-8724-493f-b72d-1101ea63370a"
+  },
+  "currentNote": "00 Notes/Daily Briefings/2026-04-22 — Music Briefing.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 725,
+    "cacheReadInputTokens": 165942,
+    "contextWindow": 200000,
+    "contextTokens": 166668,
+    "percentage": 83,
+    "contextWindowIsAuthoritative": true
+  }
+}

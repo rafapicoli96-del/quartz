@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776175832510-i872x6kek",
+  "providerId": "claude",
+  "title": "Build auto-syncing master to-do note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776175832510,
+  "updatedAt": 1776182764559,
+  "lastResponseAt": 1776177561772,
+  "sessionId": "224914cf-dbb3-44a9-a925-29a2b8ff8f0b",
+  "providerState": {
+    "providerSessionId": "224914cf-dbb3-44a9-a925-29a2b8ff8f0b"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1956,
+    "cacheReadInputTokens": 60351,
+    "contextWindow": 200000,
+    "contextTokens": 62308,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

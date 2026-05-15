@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778720181556-8w0am4aqb",
+  "providerId": "claude",
+  "title": "# Entendendo o Sistema de Linking e Backlinks n...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778720181557,
+  "updatedAt": 1778755121500,
+  "lastResponseAt": 1778720794747,
+  "sessionId": "86cd84d6-adf2-4613-8814-1b75b2485ea1",
+  "providerState": {
+    "providerSessionId": "86cd84d6-adf2-4613-8814-1b75b2485ea1"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 943,
+    "cacheReadInputTokens": 70693,
+    "contextWindow": 200000,
+    "contextTokens": 71646,
+    "percentage": 36,
+    "contextWindowIsAuthoritative": true
+  }
+}

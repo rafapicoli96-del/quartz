@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776807660807-f3c4osekr",
+  "providerId": "claude",
+  "title": "Compare Rast Sound and Soothe",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776807660808,
+  "updatedAt": 1776817886000,
+  "lastResponseAt": 1776807709857,
+  "sessionId": "b87f1826-6397-4312-8184-f95d94aa0719",
+  "providerState": {
+    "providerSessionId": "b87f1826-6397-4312-8184-f95d94aa0719"
+  },
+  "currentNote": "00 Notes/Daily Briefings/2026-04-21 — Music Briefing.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 1149,
+    "cacheReadInputTokens": 20743,
+    "contextWindow": 200000,
+    "contextTokens": 21895,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

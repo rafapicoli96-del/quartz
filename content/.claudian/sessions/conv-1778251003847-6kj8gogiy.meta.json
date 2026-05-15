@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778251003847-6kj8gogiy",
+  "providerId": "claude",
+  "title": "I'll fetch the video info to generate an approp...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778251003847,
+  "updatedAt": 1778253329980,
+  "lastResponseAt": 1778253320025,
+  "sessionId": "b8272309-008e-4785-904f-ac6d753290a1",
+  "providerState": {
+    "providerSessionId": "b8272309-008e-4785-904f-ac6d753290a1"
+  },
+  "currentNote": "00 Notes/Vídeos/Joe Hudson/Emoções Reprimidas, Ansiedade e o Algoritmo de Ouro.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 553,
+    "cacheReadInputTokens": 80559,
+    "contextWindow": 200000,
+    "contextTokens": 81115,
+    "percentage": 41,
+    "contextWindowIsAuthoritative": true
+  }
+}

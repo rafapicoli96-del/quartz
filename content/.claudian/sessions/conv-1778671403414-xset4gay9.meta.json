@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778671403414-xset4gay9",
+  "providerId": "claude",
+  "title": "Vou rodar a skill youtube summarizer para esse ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778671403414,
+  "updatedAt": 1778691529603,
+  "lastResponseAt": 1778671612545,
+  "sessionId": "8bc0c334-5960-4414-88d7-bc1f60654eff",
+  "providerState": {
+    "providerSessionId": "8bc0c334-5960-4414-88d7-bc1f60654eff"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4540,
+    "cacheReadInputTokens": 46664,
+    "contextWindow": 200000,
+    "contextTokens": 51205,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

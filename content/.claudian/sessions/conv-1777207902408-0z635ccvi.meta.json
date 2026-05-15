@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777207902408-0z635ccvi",
+  "providerId": "claude",
+  "title": "Cade o update do today",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777207902409,
+  "updatedAt": 1777210148950,
+  "lastResponseAt": 1777208945218,
+  "sessionId": "5723dc2b-a9a9-490c-907e-3b9a95b54d2e",
+  "providerState": {
+    "providerSessionId": "5723dc2b-a9a9-490c-907e-3b9a95b54d2e"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-24.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 269,
+    "cacheReadInputTokens": 111940,
+    "contextWindow": 200000,
+    "contextTokens": 112217,
+    "percentage": 56
+  }
+}

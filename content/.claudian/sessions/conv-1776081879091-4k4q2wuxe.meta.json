@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776081879091-4k4q2wuxe",
+  "providerId": "claude",
+  "title": "Generate monthly financial reports",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776081879091,
+  "updatedAt": 1776116355114,
+  "lastResponseAt": 1776082124571,
+  "sessionId": "0db6f180-2efc-4216-a955-e5a9d048e6dc",
+  "providerState": {
+    "providerSessionId": "0db6f180-2efc-4216-a955-e5a9d048e6dc"
+  },
+  "currentNote": "03 Projects/Finance/Relatorios/2026-02.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 608,
+    "cacheReadInputTokens": 62194,
+    "contextWindow": 200000,
+    "contextTokens": 62812,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

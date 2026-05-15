@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776378309458-dc94hhrtz",
+  "providerId": "claude",
+  "title": "Log Westcoast production analysis",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776378309458,
+  "updatedAt": 1776423009636,
+  "lastResponseAt": 1776379526286,
+  "sessionId": "953a8f54-d033-4675-91b6-51a446132817",
+  "providerState": {
+    "providerSessionId": "953a8f54-d033-4675-91b6-51a446132817"
+  },
+  "currentNote": "03 Projects/Music Mastery/COMMANDS.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1114,
+    "cacheReadInputTokens": 64395,
+    "contextWindow": 200000,
+    "contextTokens": 65517,
+    "percentage": 33,
+    "contextWindowIsAuthoritative": true
+  }
+}

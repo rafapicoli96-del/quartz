@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776340059214-lzk0dfkrn",
+  "providerId": "claude",
+  "title": "Conectar insights do estudo com minha vida",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776340059214,
+  "updatedAt": 1776343000869,
+  "lastResponseAt": 1776340136295,
+  "sessionId": "f558620c-ea22-4cc4-b1da-7506cb5e733f",
+  "providerState": {
+    "providerSessionId": "f558620c-ea22-4cc4-b1da-7506cb5e733f"
+  },
+  "currentNote": "00 Notes/Vídeos/Espiritualidade & Consciência/The Most Dangerous Book Ever Written About Human Consciousness.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2611,
+    "cacheReadInputTokens": 26684,
+    "contextWindow": 200000,
+    "contextTokens": 29296,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

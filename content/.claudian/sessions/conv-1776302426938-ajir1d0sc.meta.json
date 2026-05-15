@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776302426938-ajir1d0sc",
+  "providerId": "claude",
+  "title": "Integrate food log automation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776302426938,
+  "updatedAt": 1776302930299,
+  "lastResponseAt": 1776302621066,
+  "sessionId": "89869e62-e044-4320-adab-ff0a5024946f",
+  "providerState": {
+    "providerSessionId": "89869e62-e044-4320-adab-ff0a5024946f"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 589,
+    "cacheReadInputTokens": 45259,
+    "contextWindow": 200000,
+    "contextTokens": 45856,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776102813417-vg19pljtz",
+  "providerId": "claude",
+  "title": "Analyze calendar: Apr 12-13 + reactivate Humor",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776102813417,
+  "updatedAt": 1776128510904,
+  "lastResponseAt": 1776112161854,
+  "sessionId": "1403aec4-83fb-4e0c-a7f5-b04ba252a526",
+  "providerState": {
+    "providerSessionId": "1403aec4-83fb-4e0c-a7f5-b04ba252a526"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 503,
+    "cacheReadInputTokens": 66751,
+    "contextWindow": 200000,
+    "contextTokens": 67262,
+    "percentage": 34,
+    "contextWindowIsAuthoritative": true
+  }
+}

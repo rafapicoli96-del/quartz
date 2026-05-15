@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777300620068-dkep1esug",
+  "providerId": "claude",
+  "title": "Vou ler o Today.md e o journal do dia para capt...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777300620068,
+  "updatedAt": 1777310524755,
+  "lastResponseAt": 1777300646872,
+  "sessionId": "b53bed82-e430-4243-afa9-209e3dc86bb1",
+  "providerState": {
+    "providerSessionId": "b53bed82-e430-4243-afa9-209e3dc86bb1"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-26.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 657,
+    "cacheReadInputTokens": 30879,
+    "contextWindow": 200000,
+    "contextTokens": 31537,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

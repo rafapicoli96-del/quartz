@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778270860947-u7z20tsvk",
+  "providerId": "claude",
+  "title": "Vou rodar a skill de YouTube summarizer para vo...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778270860948,
+  "updatedAt": 1778272852877,
+  "lastResponseAt": 1778271146841,
+  "sessionId": "5326164a-6c8a-4daf-b3c6-f103ecc4880d",
+  "providerState": {
+    "providerSessionId": "5326164a-6c8a-4daf-b3c6-f103ecc4880d"
+  },
+  "currentNote": "00 Notes/Vídeos/Joe Hudson/Joe's Journey.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 7233,
+    "cacheReadInputTokens": 55870,
+    "contextWindow": 200000,
+    "contextTokens": 63104,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

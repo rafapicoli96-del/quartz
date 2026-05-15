@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778193270937-wvhqdrsa4",
+  "providerId": "claude",
+  "title": "**WhatsApp Response Skill — Mensagens Mais Elab...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778193270937,
+  "updatedAt": 1778205691411,
+  "lastResponseAt": 1778193286215,
+  "sessionId": "4e286fc2-1553-434e-98c7-30707f96bca7",
+  "providerState": {
+    "providerSessionId": "4e286fc2-1553-434e-98c7-30707f96bca7"
+  },
+  "currentNote": "**O Segredo de Tudo.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 18175,
+    "cacheReadInputTokens": 32694,
+    "contextWindow": 200000,
+    "contextTokens": 50879,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}

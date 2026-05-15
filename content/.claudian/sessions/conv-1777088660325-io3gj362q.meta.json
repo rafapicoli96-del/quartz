@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777088660325-io3gj362q",
+  "providerId": "claude",
+  "title": "**Cobranças Sony: Assinatura R$65,90/mês e Comp...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777088660326,
+  "updatedAt": 1777117472216,
+  "lastResponseAt": 1777088719626,
+  "sessionId": "a1b4237a-db34-4508-8611-4d4baed454fc",
+  "providerState": {
+    "providerSessionId": "a1b4237a-db34-4508-8611-4d4baed454fc"
+  },
+  "currentNote": "03 Projects/Finance/Relatorios/2026-01.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1017,
+    "cacheReadInputTokens": 57935,
+    "contextWindow": 200000,
+    "contextTokens": 58960,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

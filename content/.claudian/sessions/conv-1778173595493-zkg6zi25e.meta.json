@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778173595493-zkg6zi25e",
+  "providerId": "claude",
+  "title": "Vou executar a skill de YouTube Video Summarize...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778173595493,
+  "updatedAt": 1778173846089,
+  "lastResponseAt": 1778173749260,
+  "sessionId": "fa1a6f0d-8537-4825-85c3-4f25d05cfcff",
+  "providerState": {
+    "providerSessionId": "fa1a6f0d-8537-4825-85c3-4f25d05cfcff"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4275,
+    "cacheReadInputTokens": 36387,
+    "contextWindow": 200000,
+    "contextTokens": 40663,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

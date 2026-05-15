@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776305121789-gk8y1cvo2",
+  "providerId": "claude",
+  "title": "Documentar conversa Grok — Outsmarting Reality",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776305121789,
+  "updatedAt": 1776342997492,
+  "lastResponseAt": 1776305425677,
+  "sessionId": "29eb6ff4-aadd-46e1-88ad-5d2e13581712",
+  "providerState": {
+    "providerSessionId": "29eb6ff4-aadd-46e1-88ad-5d2e13581712"
+  },
+  "currentNote": "00 Notes/Books/Outsmarting Reality Nero - Grok + claude.md.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 11150,
+    "cacheReadInputTokens": 85672,
+    "contextWindow": 200000,
+    "contextTokens": 96830,
+    "percentage": 48,
+    "contextWindowIsAuthoritative": true
+  }
+}

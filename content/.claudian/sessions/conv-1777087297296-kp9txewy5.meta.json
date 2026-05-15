@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777087297296-kp9txewy5",
+  "providerId": "claude",
+  "title": "Vou procurar o registro de \"Moises Systems\" par...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777087297296,
+  "updatedAt": 1777087602420,
+  "lastResponseAt": 1777087353216,
+  "sessionId": "4032d449-80b1-4e36-984b-5b1699b592fe",
+  "providerState": {
+    "providerSessionId": "4032d449-80b1-4e36-984b-5b1699b592fe"
+  },
+  "currentNote": "03 Projects/Finance/Relatorios/2026-04.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 639,
+    "cacheReadInputTokens": 38824,
+    "contextWindow": 200000,
+    "contextTokens": 39464,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

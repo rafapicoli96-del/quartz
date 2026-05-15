@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776976909320-yuts959sh",
+  "providerId": "claude",
+  "title": "Não consigo ver a lista que você está consultan...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776976909320,
+  "updatedAt": 1777038920924,
+  "lastResponseAt": 1776979881344,
+  "sessionId": "e0e6d624-a461-4afb-92a1-2d83140051ef",
+  "providerState": {
+    "providerSessionId": "e0e6d624-a461-4afb-92a1-2d83140051ef"
+  },
+  "currentNote": "03 Projects/Music Mastery/00 Queue/(C) Artist Study List.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 97791,
+    "cacheReadInputTokens": 58517,
+    "contextWindow": 200000,
+    "contextTokens": 156318,
+    "percentage": 78,
+    "contextWindowIsAuthoritative": true
+  }
+}

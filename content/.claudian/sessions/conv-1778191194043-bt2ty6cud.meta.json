@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778191194043-bt2ty6cud",
+  "providerId": "claude",
+  "title": "Antes de deletar, deixa eu ler o arquivo para e...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778191194043,
+  "updatedAt": 1778193196955,
+  "lastResponseAt": 1778193144095,
+  "sessionId": "7fba97a0-66ad-4dd4-8e03-b0d6272ee91b",
+  "providerState": {
+    "providerSessionId": "7fba97a0-66ad-4dd4-8e03-b0d6272ee91b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 850,
+    "cacheReadInputTokens": 70122,
+    "contextWindow": 200000,
+    "contextTokens": 70982,
+    "percentage": 35,
+    "contextWindowIsAuthoritative": true
+  }
+}

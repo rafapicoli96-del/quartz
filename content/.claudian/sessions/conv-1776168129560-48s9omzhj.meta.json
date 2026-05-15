@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776168129560-48s9omzhj",
+  "providerId": "claude",
+  "title": "Create to-do session with checkmarks",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776168129560,
+  "updatedAt": 1776175604231,
+  "lastResponseAt": 1776168222735,
+  "sessionId": "988e540c-52d0-4a77-ada1-d1f3d0c7a72a",
+  "providerState": {
+    "providerSessionId": "988e540c-52d0-4a77-ada1-d1f3d0c7a72a"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 352,
+    "cacheReadInputTokens": 19303,
+    "contextWindow": 200000,
+    "contextTokens": 19656,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

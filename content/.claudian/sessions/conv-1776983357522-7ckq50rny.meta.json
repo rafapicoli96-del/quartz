@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776983357522-7ckq50rny",
+  "providerId": "claude",
+  "title": "# Song Log: Wizkid - Essence (104 BPM)",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776983357522,
+  "updatedAt": 1777032842355,
+  "lastResponseAt": 1776984161462,
+  "sessionId": "43bde886-b9b2-4a54-8792-91785e4c4400",
+  "providerState": {
+    "providerSessionId": "43bde886-b9b2-4a54-8792-91785e4c4400"
+  },
+  "currentNote": "03 Projects/Music Mastery/00 Queue/(C) Artist Study List.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 317,
+    "cacheReadInputTokens": 94520,
+    "contextWindow": 200000,
+    "contextTokens": 94845,
+    "percentage": 47,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778495914176-lngluk2px",
+  "providerId": "claude",
+  "title": "**Fix: Daily Agent Reset com Order Desatualizad...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778495914176,
+  "updatedAt": 1778550732421,
+  "lastResponseAt": 1778536107984,
+  "sessionId": "cc6e2279-22fb-4af1-aed1-4bc079f0621d",
+  "providerState": {
+    "providerSessionId": "cc6e2279-22fb-4af1-aed1-4bc079f0621d"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 213,
+    "cacheReadInputTokens": 138839,
+    "contextWindow": 200000,
+    "contextTokens": 139053,
+    "percentage": 70,
+    "contextWindowIsAuthoritative": true
+  }
+}

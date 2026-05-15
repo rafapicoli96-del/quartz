@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776040483188-lvm4ssjvq",
+  "providerId": "claude",
+  "title": "Clarify Projects folder purpose",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776040483188,
+  "updatedAt": 1776116451095,
+  "lastResponseAt": 1776041648387,
+  "sessionId": "e7149a8b-8ba8-4b7e-99fd-9efa501ca874",
+  "providerState": {
+    "providerSessionId": "e7149a8b-8ba8-4b7e-99fd-9efa501ca874"
+  },
+  "currentNote": "SETUP GUIDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 325,
+    "cacheReadInputTokens": 44341,
+    "contextWindow": 200000,
+    "contextTokens": 44667,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

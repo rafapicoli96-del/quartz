@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777241424898-k1gkuzdb5",
+  "providerId": "claude",
+  "title": "Me ajuda a pensar numa coisa: se esse briefing de ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777241424899,
+  "updatedAt": 1777289904754,
+  "lastResponseAt": 1777241939872,
+  "sessionId": "2eb4e61c-9e0d-4c1c-8da4-3dc40d342f2d",
+  "providerState": {
+    "providerSessionId": "2eb4e61c-9e0d-4c1c-8da4-3dc40d342f2d"
+  },
+  "currentNote": "00 Notes/WhatsApp — Briefings.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 375,
+    "cacheReadInputTokens": 57351,
+    "contextWindow": 200000,
+    "contextTokens": 57727,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

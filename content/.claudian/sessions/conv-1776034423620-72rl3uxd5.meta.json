@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776034423620-72rl3uxd5",
+  "providerId": "claude",
+  "title": "Create daily alignment checkpoint",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776034423621,
+  "updatedAt": 1776116433387,
+  "lastResponseAt": 1776036774179,
+  "sessionId": "91df607b-594f-4c57-88b5-8224e7a25183",
+  "providerState": {
+    "providerSessionId": "91df607b-594f-4c57-88b5-8224e7a25183"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1711,
+    "cacheReadInputTokens": 24418,
+    "contextWindow": 200000,
+    "contextTokens": 26130,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776259549505-5kgz7ssof",
+  "providerId": "claude",
+  "title": "Create Pickup Music file renaming skill",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776259549505,
+  "updatedAt": 1776275884507,
+  "lastResponseAt": 1776275437641,
+  "sessionId": "39a9f0c9-becf-4a67-8994-19a8eb4d1750",
+  "providerState": {
+    "providerSessionId": "39a9f0c9-becf-4a67-8994-19a8eb4d1750"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 583,
+    "cacheReadInputTokens": 125667,
+    "contextWindow": 200000,
+    "contextTokens": 126258,
+    "percentage": 63,
+    "contextWindowIsAuthoritative": true
+  }
+}

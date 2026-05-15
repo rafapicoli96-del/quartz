@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776959455335-nu48sglm2",
+  "providerId": "claude",
+  "title": "Entendi! Você adicionou uma prática de aplicaçã...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776959455335,
+  "updatedAt": 1776968616079,
+  "lastResponseAt": 1776959486510,
+  "sessionId": "ae851652-8ec4-4b99-93c8-2837add3311a",
+  "providerState": {
+    "providerSessionId": "ae851652-8ec4-4b99-93c8-2837add3311a"
+  },
+  "currentNote": "03 Projects/Music Mastery/03 System/(C) Song Analysis Framework.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 774,
+    "cacheReadInputTokens": 47846,
+    "contextWindow": 200000,
+    "contextTokens": 48628,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777723338946-20vaeqqb2",
+  "providerId": "claude",
+  "title": "roda a skill nesse vídeo",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777723338947,
+  "updatedAt": 1777806840242,
+  "lastResponseAt": 1777724916851,
+  "sessionId": "de0fa059-c7e6-4ba4-9019-a45afd0605b9",
+  "providerState": {
+    "providerSessionId": "de0fa059-c7e6-4ba4-9019-a45afd0605b9"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 261,
+    "cacheReadInputTokens": 50672,
+    "contextWindow": 200000,
+    "contextTokens": 50934,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}

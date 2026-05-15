@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778669834894-s8apwab32",
+  "providerId": "claude",
+  "title": "**Food Log Correction — Bis de Oreo**\n\nEntendi!...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778669834894,
+  "updatedAt": 1778691445389,
+  "lastResponseAt": 1778669852944,
+  "sessionId": "c420c136-c5f5-47ba-8da1-8ca0306d7174",
+  "providerState": {
+    "providerSessionId": "c420c136-c5f5-47ba-8da1-8ca0306d7174"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-12.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 459,
+    "cacheReadInputTokens": 31674,
+    "contextWindow": 200000,
+    "contextTokens": 32134,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

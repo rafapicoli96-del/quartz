@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777117195781-ogw45ju67",
+  "providerId": "claude",
+  "title": "Respondi às perguntas no final do journal e também...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777117195782,
+  "updatedAt": 1777117471171,
+  "lastResponseAt": 1777117300437,
+  "sessionId": "0ed55ab4-2f44-4a3b-a300-cdafb2e2f792",
+  "providerState": {
+    "providerSessionId": "0ed55ab4-2f44-4a3b-a300-cdafb2e2f792"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-24.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 562,
+    "cacheReadInputTokens": 48998,
+    "contextWindow": 200000,
+    "contextTokens": 49568,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}

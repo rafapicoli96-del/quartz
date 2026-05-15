@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776167351194-bukmer1qp",
+  "providerId": "claude",
+  "title": "Optimize vault structure for seamless second brain",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776167351194,
+  "updatedAt": 1776175606719,
+  "lastResponseAt": 1776167854598,
+  "sessionId": "9b595de2-e810-4773-85b8-587384bab498",
+  "providerState": {
+    "providerSessionId": "9b595de2-e810-4773-85b8-587384bab498"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1221,
+    "cacheReadInputTokens": 34108,
+    "contextWindow": 200000,
+    "contextTokens": 35330,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778275833950-p3868vhsx",
+  "providerId": "claude",
+  "title": "Preciso de clareza — qual arquivo ou lista você...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778275833951,
+  "updatedAt": 1778275894602,
+  "lastResponseAt": 1778275846162,
+  "sessionId": "ee5110f2-b561-4058-aa3b-0d595d12e0e1",
+  "providerState": {
+    "providerSessionId": "ee5110f2-b561-4058-aa3b-0d595d12e0e1"
+  },
+  "currentNote": "zWork — Tarefas Ativas.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 424,
+    "cacheReadInputTokens": 28299,
+    "contextWindow": 200000,
+    "contextTokens": 28724,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

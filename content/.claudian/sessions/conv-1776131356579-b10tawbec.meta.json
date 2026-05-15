@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776131356579-b10tawbec",
+  "providerId": "claude",
+  "title": "Auditar coerência do vault",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776131356579,
+  "updatedAt": 1776164433352,
+  "lastResponseAt": 1776131766625,
+  "sessionId": "7a726e82-d02d-4c08-9a30-bf4fd627629e",
+  "providerState": {
+    "providerSessionId": "7a726e82-d02d-4c08-9a30-bf4fd627629e"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 660,
+    "cacheReadInputTokens": 96688,
+    "contextWindow": 200000,
+    "contextTokens": 97349,
+    "percentage": 49,
+    "contextWindowIsAuthoritative": true
+  }
+}

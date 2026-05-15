@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777321383512-mfpogxo7d",
+  "providerId": "claude",
+  "title": "Queria dar uma limpada no root do meu vault, da pr...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777321383512,
+  "updatedAt": 1777379335100,
+  "lastResponseAt": 1777321433415,
+  "sessionId": "fbc3da72-d55c-47ba-a531-394fb761a0f7",
+  "providerState": {
+    "providerSessionId": "fbc3da72-d55c-47ba-a531-394fb761a0f7"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 182,
+    "cacheReadInputTokens": 75188,
+    "contextWindow": 200000,
+    "contextTokens": 75378,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}

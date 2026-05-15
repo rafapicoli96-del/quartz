@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776132020820-9oeutcuho",
+  "providerId": "claude",
+  "title": "Setup daily note reset and archival",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776132020821,
+  "updatedAt": 1776164432547,
+  "lastResponseAt": 1776164394442,
+  "sessionId": "f74e2e35-c3a8-4a90-b4f1-54c02b0ddb76",
+  "providerState": {
+    "providerSessionId": "f74e2e35-c3a8-4a90-b4f1-54c02b0ddb76"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 401,
+    "cacheReadInputTokens": 85589,
+    "contextWindow": 200000,
+    "contextTokens": 85993,
+    "percentage": 43,
+    "contextWindowIsAuthoritative": true
+  }
+}

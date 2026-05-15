@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776164456976-6jlxublqm",
+  "providerId": "claude",
+  "title": "Verificar acesso ao GCAL e atualizar nota",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776164456976,
+  "updatedAt": 1776167261912,
+  "lastResponseAt": 1776164569422,
+  "sessionId": "9f641dc4-50f7-4368-b36c-4152089e3a1f",
+  "providerState": {
+    "providerSessionId": "9f641dc4-50f7-4368-b36c-4152089e3a1f"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 5571,
+    "cacheReadInputTokens": 31296,
+    "contextWindow": 200000,
+    "contextTokens": 36868,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

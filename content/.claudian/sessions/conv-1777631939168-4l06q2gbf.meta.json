@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777631939168-4l06q2gbf",
+  "providerId": "claude",
+  "title": "I'll grab the video info to generate a fitting ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777631939169,
+  "updatedAt": 1777676455887,
+  "lastResponseAt": 1777632086462,
+  "sessionId": "fe7b92ee-df3c-45c1-b628-3879a799e690",
+  "providerState": {
+    "providerSessionId": "fe7b92ee-df3c-45c1-b628-3879a799e690"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 8630,
+    "cacheReadInputTokens": 66909,
+    "contextWindow": 200000,
+    "contextTokens": 75547,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}

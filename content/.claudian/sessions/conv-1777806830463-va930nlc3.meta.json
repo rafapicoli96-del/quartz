@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777806830463-va930nlc3",
+  "providerId": "claude",
+  "title": "Vou rodar o YouTube Video Summarizer nesse víde...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777806830463,
+  "updatedAt": 1777807437284,
+  "lastResponseAt": 1777806984983,
+  "sessionId": "4caeb523-c114-42fe-843c-b6f309ebdd4a",
+  "providerState": {
+    "providerSessionId": "4caeb523-c114-42fe-843c-b6f309ebdd4a"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 3626,
+    "cacheReadInputTokens": 36603,
+    "contextWindow": 200000,
+    "contextTokens": 40230,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776339853639-0bganpcww",
+  "providerId": "claude",
+  "title": "Organize YouTube study notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776339853639,
+  "updatedAt": 1776339997958,
+  "lastResponseAt": 1776339888737,
+  "sessionId": "ca1b8d32-58f5-4e0c-a3dd-e9fc79fd2342",
+  "providerState": {
+    "providerSessionId": "ca1b8d32-58f5-4e0c-a3dd-e9fc79fd2342"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 313,
+    "cacheReadInputTokens": 27869,
+    "contextWindow": 200000,
+    "contextTokens": 28183,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778268028676-0orh4jp3o",
+  "providerId": "claude",
+  "title": "Run the youtube summarizer skill in this video and...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778268028677,
+  "updatedAt": 1778270257798,
+  "lastResponseAt": 1778268368106,
+  "sessionId": "9b380a26-8a4c-42a0-9a55-87bda87631a2",
+  "providerState": {
+    "providerSessionId": "9b380a26-8a4c-42a0-9a55-87bda87631a2"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 7763,
+    "cacheReadInputTokens": 61859,
+    "contextWindow": 200000,
+    "contextTokens": 69623,
+    "percentage": 35,
+    "contextWindowIsAuthoritative": true
+  }
+}

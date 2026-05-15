@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777145076905-e4nlg14sy",
+  "providerId": "claude",
+  "title": "**Anotando Insights Preferidos de Livros — Zona...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777145076905,
+  "updatedAt": 1777145824144,
+  "lastResponseAt": 1777145094698,
+  "sessionId": "54bdb567-6197-46bb-b6c8-5b22f0af9b1d",
+  "providerState": {
+    "providerSessionId": "54bdb567-6197-46bb-b6c8-5b22f0af9b1d"
+  },
+  "currentNote": "00 Notes/Books/!INSIGHTS PREFERIDOS!.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 906,
+    "cacheReadInputTokens": 46935,
+    "contextWindow": 200000,
+    "contextTokens": 47849,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

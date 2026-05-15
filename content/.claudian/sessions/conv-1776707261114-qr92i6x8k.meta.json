@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776707261114-qr92i6x8k",
+  "providerId": "claude",
+  "title": "Implementar progresso e links em book notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776707261115,
+  "updatedAt": 1776772078522,
+  "lastResponseAt": 1776710119621,
+  "sessionId": "1d02b3d0-5a74-4246-816e-02e6fb36fc37",
+  "providerState": {
+    "providerSessionId": "1d02b3d0-5a74-4246-816e-02e6fb36fc37"
+  },
+  "currentNote": "03 Projects/Social Mastery/00 Book List — Social Intelligence.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 587,
+    "cacheReadInputTokens": 26472,
+    "contextWindow": 200000,
+    "contextTokens": 27060,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

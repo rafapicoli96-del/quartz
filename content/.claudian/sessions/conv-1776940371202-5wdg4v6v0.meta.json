@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776940371202-5wdg4v6v0",
+  "providerId": "claude",
+  "title": "# Journal Automation — Vigésima Correção (e a ú...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776940371202,
+  "updatedAt": 1776943719143,
+  "lastResponseAt": 1776943576435,
+  "sessionId": "c29372df-0937-4cd7-bbf9-0f450a9ecbc3",
+  "providerState": {
+    "providerSessionId": "c29372df-0937-4cd7-bbf9-0f450a9ecbc3"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-22.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1667,
+    "cacheReadInputTokens": 80477,
+    "contextWindow": 200000,
+    "contextTokens": 82152,
+    "percentage": 41,
+    "contextWindowIsAuthoritative": true
+  }
+}

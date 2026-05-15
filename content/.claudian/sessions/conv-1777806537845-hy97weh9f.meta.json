@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777806537845-hy97weh9f",
+  "providerId": "claude",
+  "title": "recebi esse problema aqui do github, o que é",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777806537845,
+  "updatedAt": 1777806837809,
+  "lastResponseAt": 1777806749164,
+  "sessionId": "fda498d9-253b-4687-92ca-f397f85948cb",
+  "providerState": {
+    "providerSessionId": "fda498d9-253b-4687-92ca-f397f85948cb"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 216,
+    "cacheReadInputTokens": 33851,
+    "contextWindow": 200000,
+    "contextTokens": 34068,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

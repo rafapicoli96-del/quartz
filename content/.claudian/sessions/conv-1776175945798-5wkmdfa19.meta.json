@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776175945798-5wkmdfa19",
+  "providerId": "claude",
+  "title": "Adicionar novo álbum Harry Styles",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776175945798,
+  "updatedAt": 1776176736881,
+  "lastResponseAt": 1776176247195,
+  "sessionId": "eb0cfe3b-a95b-4924-ae70-e937c9eee413",
+  "providerState": {
+    "providerSessionId": "eb0cfe3b-a95b-4924-ae70-e937c9eee413"
+  },
+  "currentNote": "03 Projects/Music Mastery/00 Queue/(C) Artist Study List.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 434,
+    "cacheReadInputTokens": 21676,
+    "contextWindow": 200000,
+    "contextTokens": 22111,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

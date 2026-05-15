@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778253167412-6iq8jv6o2",
+  "providerId": "claude",
+  "title": "**Treino da Manhã - Supino, Panturrilha e Ombro...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778253167412,
+  "updatedAt": 1778322728031,
+  "lastResponseAt": 1778253680118,
+  "sessionId": "d6ab1013-3141-463d-aed5-c04cfaaf51ba",
+  "providerState": {
+    "providerSessionId": "d6ab1013-3141-463d-aed5-c04cfaaf51ba"
+  },
+  "currentNote": "(C) Gym Log.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 599,
+    "cacheReadInputTokens": 33928,
+    "contextWindow": 200000,
+    "contextTokens": 34528,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

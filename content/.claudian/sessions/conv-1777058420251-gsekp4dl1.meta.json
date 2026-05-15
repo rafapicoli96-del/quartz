@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777058420251-gsekp4dl1",
+  "providerId": "claude",
+  "title": "Entendido! Vou:\n\n1. **Encontrar o relatório fin...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777058420251,
+  "updatedAt": 1777059549862,
+  "lastResponseAt": 1777059511604,
+  "sessionId": "54a7fc1c-5474-40f1-93f5-37b8e7cf9f6e",
+  "providerState": {
+    "providerSessionId": "54a7fc1c-5474-40f1-93f5-37b8e7cf9f6e"
+  },
+  "currentNote": "03 Projects/Finance/Relatorios/2026-03.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1130,
+    "cacheReadInputTokens": 111436,
+    "contextWindow": 200000,
+    "contextTokens": 112574,
+    "percentage": 56,
+    "contextWindowIsAuthoritative": true
+  }
+}

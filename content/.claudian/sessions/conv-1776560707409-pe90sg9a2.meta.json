@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776560707409-pe90sg9a2",
+  "providerId": "claude",
+  "title": "Update Today.md",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776560707409,
+  "updatedAt": 1776643312895,
+  "lastResponseAt": 1776564619251,
+  "sessionId": "194b7657-21a9-4f0c-9243-d48a4cd10421",
+  "providerState": {
+    "providerSessionId": "194b7657-21a9-4f0c-9243-d48a4cd10421"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 360,
+    "cacheReadInputTokens": 62330,
+    "contextWindow": 200000,
+    "contextTokens": 62691,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778064943973-p62nw3z0d",
+  "providerId": "claude",
+  "title": "Vou rodar a skill de YouTube Video Summarizer n...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778064943973,
+  "updatedAt": 1778068280499,
+  "lastResponseAt": 1778066122129,
+  "sessionId": "2ee18a47-2b4a-4c2f-8aae-2f752cca85e7",
+  "providerState": {
+    "providerSessionId": "2ee18a47-2b4a-4c2f-8aae-2f752cca85e7"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 39216,
+    "cacheReadInputTokens": 31618,
+    "contextWindow": 200000,
+    "contextTokens": 70844,
+    "percentage": 35,
+    "contextWindowIsAuthoritative": true
+  }
+}

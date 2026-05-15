@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776024061390-zl6mirg98",
+  "providerId": "claude",
+  "title": "Challenge utility of unconfirmed lens",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776024061390,
+  "updatedAt": 1776116640968,
+  "lastResponseAt": 1776024076754,
+  "sessionId": "0c30baa4-6413-4bd7-af3c-63b42330ccfc",
+  "providerState": {
+    "providerSessionId": "0c30baa4-6413-4bd7-af3c-63b42330ccfc"
+  },
+  "currentNote": "00 Notes/(C) Mental Game — Insights Fundamentais.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1329,
+    "cacheReadInputTokens": 15078,
+    "contextWindow": 200000,
+    "contextTokens": 16408,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

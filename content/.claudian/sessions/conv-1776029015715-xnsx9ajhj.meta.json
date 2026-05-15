@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776029015715-xnsx9ajhj",
+  "providerId": "claude",
+  "title": "Clarify GOALS purpose and update",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776029015716,
+  "updatedAt": 1776116406802,
+  "lastResponseAt": 1776029164859,
+  "sessionId": "78b619fd-7eee-4117-894c-787fe05c7c3c",
+  "providerState": {
+    "providerSessionId": "78b619fd-7eee-4117-894c-787fe05c7c3c"
+  },
+  "currentNote": "GOALS.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 579,
+    "cacheReadInputTokens": 20196,
+    "contextWindow": 200000,
+    "contextTokens": 20776,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

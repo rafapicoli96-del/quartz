@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777210544671-rxm0ojyyc",
+  "providerId": "claude",
+  "title": "Vou atualizar a seção de sono do seu journal do...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777210544671,
+  "updatedAt": 1777211662310,
+  "lastResponseAt": 1777211552210,
+  "sessionId": "46ebb2d4-09ab-46e2-aed7-3eddf34ee79f",
+  "providerState": {
+    "providerSessionId": "46ebb2d4-09ab-46e2-aed7-3eddf34ee79f"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-25.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 339,
+    "cacheReadInputTokens": 55856,
+    "contextWindow": 200000,
+    "contextTokens": 56203,
+    "percentage": 28,
+    "contextWindowIsAuthoritative": true
+  }
+}

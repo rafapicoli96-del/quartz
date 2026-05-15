@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776644967728-k4cvu5fxf",
+  "providerId": "claude",
+  "title": "Automatizar atualização diária do journal",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776644967729,
+  "updatedAt": 1776702452183,
+  "lastResponseAt": 1776645251398,
+  "sessionId": "b5e8e618-a192-450b-9984-7069beb6733d",
+  "providerState": {
+    "providerSessionId": "b5e8e618-a192-450b-9984-7069beb6733d"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 28009,
+    "cacheReadInputTokens": 35694,
+    "contextWindow": 200000,
+    "contextTokens": 63704,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776884603482-s1b2uyxo1",
+  "providerId": "claude",
+  "title": "Create additional song logs",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776884603482,
+  "updatedAt": 1776909647748,
+  "lastResponseAt": 1776885168654,
+  "sessionId": "31e396ab-1c54-4fc3-813c-06b59f0e4a83",
+  "providerState": {
+    "providerSessionId": "31e396ab-1c54-4fc3-813c-06b59f0e4a83"
+  },
+  "currentNote": "03 Projects/Music Mastery/01 Song Logs/2026-04-16 — Lana Del Rey — Westcoast.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 306,
+    "cacheReadInputTokens": 40551,
+    "contextWindow": 200000,
+    "contextTokens": 40858,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

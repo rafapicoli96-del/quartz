@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776824292308-7jh9yhleh",
+  "providerId": "claude",
+  "title": "Analyze The Go-Giver",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776824292308,
+  "updatedAt": 1776857467709,
+  "lastResponseAt": 1776825722036,
+  "sessionId": "15c856b2-09d6-408c-a5df-2467f54b1856",
+  "providerState": {
+    "providerSessionId": "15c856b2-09d6-408c-a5df-2467f54b1856"
+  },
+  "currentNote": "03 Projects/Social Mastery/00 Book List — Social Intelligence.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 33306,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 33309,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

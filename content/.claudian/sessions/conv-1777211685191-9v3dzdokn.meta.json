@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777211685191-9v3dzdokn",
+  "providerId": "claude",
+  "title": "Deixa eu extrair o texto do PDF com um script P...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777211685191,
+  "updatedAt": 1777310525860,
+  "lastResponseAt": 1777211859778,
+  "sessionId": "931861d3-8b71-4067-900d-40daed0f8f98",
+  "providerState": {
+    "providerSessionId": "931861d3-8b71-4067-900d-40daed0f8f98"
+  },
+  "currentNote": "05 Skills/book-summarizer-skill.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

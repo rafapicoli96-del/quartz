@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777153576144-ovzm28xyt",
+  "providerId": "claude",
+  "title": "Vou ler o arquivo de tarefas ativas e adicionar...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777153576144,
+  "updatedAt": 1777208017724,
+  "lastResponseAt": 1777153586756,
+  "sessionId": "371e176f-ca88-4d6d-8502-138b4b8de9a8",
+  "providerState": {
+    "providerSessionId": "371e176f-ca88-4d6d-8502-138b4b8de9a8"
+  },
+  "currentNote": "Work — Tarefas Ativas.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 617,
+    "cacheReadInputTokens": 46607,
+    "contextWindow": 200000,
+    "contextTokens": 47232,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

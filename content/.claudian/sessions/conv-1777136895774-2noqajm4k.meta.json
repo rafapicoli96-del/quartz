@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777136895774-2noqajm4k",
+  "providerId": "claude",
+  "title": "Vou ajudar a montar um treino com halteres. Dei...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777136895774,
+  "updatedAt": 1777144969489,
+  "lastResponseAt": 1777137009815,
+  "sessionId": "c6643629-ab60-465f-a0a8-84c2fcb7c2c4",
+  "providerState": {
+    "providerSessionId": "c6643629-ab60-465f-a0a8-84c2fcb7c2c4"
+  },
+  "currentNote": "TREINO.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 397,
+    "cacheReadInputTokens": 49994,
+    "contextWindow": 200000,
+    "contextTokens": 50399,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,4 @@
+
+* Preciso ter mais na mão sons básicos e coringas / por exemplo: Lead simples estilo tyler, todos os sons da sugar on my tongue kk / Essas paradas de synth que são mais simples no sound design, as vezes cons que são complexos demais acabam deixando mais denso do que precisa*
+* Sistema > qualquer outra coisa desde memorização e seja lá o que. / Preciso ter mais sistemas para as coisas, e trabalhar mais para deixar os sistemas mais sólidos. 
+* Denovo isso do começo - Qualquer som eu preciso ter na mão em menos de 5 segundos - Piano abafado? Pad abrindo com ressonância, filtrado? Guitarra phaser? guitarra com distorção lead? Eu preciso te preset pra TUDO. TUDO tem que vir em menos de 10 segundos. 

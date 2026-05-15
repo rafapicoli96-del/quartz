@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778185089895-q50wlkqgy",
+  "providerId": "claude",
+  "title": "marquei varias tarefas aqui como completas",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778185089896,
+  "updatedAt": 1778185325641,
+  "lastResponseAt": 1778185158458,
+  "sessionId": "6c3ef732-836c-4b18-8fcd-1f6181049417",
+  "providerState": {
+    "providerSessionId": "6c3ef732-836c-4b18-8fcd-1f6181049417"
+  },
+  "currentNote": "zMaster To-Do.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 296,
+    "cacheReadInputTokens": 41140,
+    "contextWindow": 200000,
+    "contextTokens": 41444,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

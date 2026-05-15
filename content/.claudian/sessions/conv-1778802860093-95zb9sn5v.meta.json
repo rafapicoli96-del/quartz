@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778802860093-95zb9sn5v",
+  "providerId": "claude",
+  "title": "Tem algum jeito interessante de fazer um design ma...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778802860093,
+  "updatedAt": 1778803198049,
+  "lastResponseAt": 1778803198049,
+  "sessionId": "817210ae-a2a3-46db-b974-0d76f3b8acbe",
+  "providerState": {
+    "providerSessionId": "817210ae-a2a3-46db-b974-0d76f3b8acbe"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 311,
+    "cacheReadInputTokens": 41045,
+    "contextWindow": 200000,
+    "contextTokens": 41364,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

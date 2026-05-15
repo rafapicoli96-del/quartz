@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778174335218-hyng29105",
+  "providerId": "claude",
+  "title": "Run youtube summarizer skill on the video and put ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778174335218,
+  "updatedAt": 1778236213097,
+  "lastResponseAt": 1778185528350,
+  "sessionId": "e1a626c6-8fe9-4339-8141-1d5bd3beef5d",
+  "providerState": {
+    "providerSessionId": "e1a626c6-8fe9-4339-8141-1d5bd3beef5d"
+  },
+  "currentNote": "00 Notes/Vídeos/Joe Hudson/Procrastination/Your To-Do List is Just Your Inner Critic on Paper.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 9854,
+    "cacheReadInputTokens": 79868,
+    "contextWindow": 200000,
+    "contextTokens": 89730,
+    "percentage": 45,
+    "contextWindowIsAuthoritative": true
+  }
+}

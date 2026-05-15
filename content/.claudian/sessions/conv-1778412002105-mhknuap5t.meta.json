@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778412002105-mhknuap5t",
+  "providerId": "claude",
+  "title": "Porque voce não atualizou os journals",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778412002105,
+  "updatedAt": 1778497268432,
+  "lastResponseAt": 1778413127425,
+  "sessionId": "7eadf5aa-b7cb-49ae-8f09-296786bb6d0d",
+  "providerState": {
+    "providerSessionId": "7eadf5aa-b7cb-49ae-8f09-296786bb6d0d"
+  },
+  "currentNote": "01 Journals/2026 Journals/05 May/2026-05-09.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 248,
+    "cacheReadInputTokens": 53351,
+    "contextWindow": 200000,
+    "contextTokens": 53600,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776643306165-l6gnycn1d",
+  "providerId": "claude",
+  "title": "Update Today and Journal",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776643306165,
+  "updatedAt": 1776644639861,
+  "lastResponseAt": 1776644503679,
+  "sessionId": "50697d4b-e65f-4e84-be67-0c36cc9b62c5",
+  "providerState": {
+    "providerSessionId": "50697d4b-e65f-4e84-be67-0c36cc9b62c5"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 733,
+    "cacheReadInputTokens": 60229,
+    "contextWindow": 200000,
+    "contextTokens": 60963,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

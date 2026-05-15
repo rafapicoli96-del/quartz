@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778173570063-nfez0atol",
+  "providerId": "claude",
+  "title": "I'll run the YouTube summarizer skill on this v...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778173570064,
+  "updatedAt": 1778173860223,
+  "lastResponseAt": 1778173714976,
+  "sessionId": "c01c05ee-1faa-4b14-8b14-6e26a35d19a2",
+  "providerState": {
+    "providerSessionId": "c01c05ee-1faa-4b14-8b14-6e26a35d19a2"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4156,
+    "cacheReadInputTokens": 36828,
+    "contextWindow": 200000,
+    "contextTokens": 40985,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

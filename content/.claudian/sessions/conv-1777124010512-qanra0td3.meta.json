@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777124010512-qanra0td3",
+  "providerId": "claude",
+  "title": "Vejo que você quer reorganizar \"The Art of Lear...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777124010513,
+  "updatedAt": 1777124689831,
+  "lastResponseAt": 1777124433701,
+  "sessionId": "1957c6a1-1175-4cdd-ba4a-84d4e89f944f",
+  "providerState": {
+    "providerSessionId": "1957c6a1-1175-4cdd-ba4a-84d4e89f944f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 912,
+    "cacheReadInputTokens": 61422,
+    "contextWindow": 200000,
+    "contextTokens": 62342,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

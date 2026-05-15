@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778250882840-fwrxt3u2t",
+  "providerId": "claude",
+  "title": "I'll run the YouTube summarizer skill for that ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778250882840,
+  "updatedAt": 1778497635046,
+  "lastResponseAt": 1778252229872,
+  "sessionId": "1e303a67-82f8-40f1-ac45-ec414b3fe491",
+  "providerState": {
+    "providerSessionId": "1e303a67-82f8-40f1-ac45-ec414b3fe491"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 760,
+    "cacheReadInputTokens": 62397,
+    "contextWindow": 200000,
+    "contextTokens": 63160,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

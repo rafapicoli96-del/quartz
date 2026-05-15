@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778237362746-xfi2ai8lq",
+  "providerId": "claude",
+  "title": "I'll extract the video metadata and captions, t...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778237362746,
+  "updatedAt": 1778250895432,
+  "lastResponseAt": 1778240236978,
+  "sessionId": "0bb98fc3-ee5a-43df-ab82-c90e066845ad",
+  "providerState": {
+    "providerSessionId": "0bb98fc3-ee5a-43df-ab82-c90e066845ad"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 758,
+    "cacheReadInputTokens": 99001,
+    "contextWindow": 200000,
+    "contextTokens": 99760,
+    "percentage": 50,
+    "contextWindowIsAuthoritative": true
+  }
+}

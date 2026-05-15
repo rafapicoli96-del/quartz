@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777310781044-d01doew69",
+  "providerId": "claude",
+  "title": "**Novo Sistema Automático para o Vault**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777310781044,
+  "updatedAt": 1777387508853,
+  "lastResponseAt": 1777311842036,
+  "sessionId": "48e812d8-b935-4db6-a759-47d8f0a28eda",
+  "providerState": {
+    "providerSessionId": "48e812d8-b935-4db6-a759-47d8f0a28eda"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 338,
+    "cacheReadInputTokens": 128284,
+    "contextWindow": 200000,
+    "contextTokens": 128623,
+    "percentage": 64,
+    "contextWindowIsAuthoritative": true
+  }
+}

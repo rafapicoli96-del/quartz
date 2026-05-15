@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776561720996-bnc5mru0f",
+  "providerId": "claude",
+  "title": "Explicar pesquisa diária automática com Claude",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776561720996,
+  "updatedAt": 1776564772141,
+  "lastResponseAt": 1776563835248,
+  "sessionId": "7dfc1ae8-4167-4bfa-ba69-7c0177de313f",
+  "providerState": {
+    "providerSessionId": "7dfc1ae8-4167-4bfa-ba69-7c0177de313f"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1531,
+    "cacheReadInputTokens": 42159,
+    "contextWindow": 200000,
+    "contextTokens": 43691,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

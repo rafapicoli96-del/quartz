@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777600589632-r43mcdo5i",
+  "providerId": "claude",
+  "title": "I'll grab the video info and suggest a conversa...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777600589633,
+  "updatedAt": 1777600712300,
+  "lastResponseAt": 1777600696857,
+  "sessionId": "572a572a-5dca-4696-a034-932e02eac90e",
+  "providerState": {
+    "providerSessionId": "572a572a-5dca-4696-a034-932e02eac90e"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 5121,
+    "cacheReadInputTokens": 60579,
+    "contextWindow": 200000,
+    "contextTokens": 65708,
+    "percentage": 33,
+    "contextWindowIsAuthoritative": true
+  }
+}

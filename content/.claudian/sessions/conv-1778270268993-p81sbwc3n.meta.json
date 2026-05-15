@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778270268993-p81sbwc3n",
+  "providerId": "claude",
+  "title": "Deixa eu rodar a skill de YouTube summarizer pa...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778270268993,
+  "updatedAt": 1778270855544,
+  "lastResponseAt": 1778270533791,
+  "sessionId": "9802cca6-f375-4dc5-954c-f29ab43d72fa",
+  "providerState": {
+    "providerSessionId": "9802cca6-f375-4dc5-954c-f29ab43d72fa"
+  },
+  "currentNote": "00 Notes/Vídeos/Joe Hudson/Joe's Journey.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 5581,
+    "cacheReadInputTokens": 52713,
+    "contextWindow": 200000,
+    "contextTokens": 58295,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776128589970-2hkdxaypk",
+  "providerId": "claude",
+  "title": "Recognize autonomy as demand avoidance antidote",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776128589970,
+  "updatedAt": 1776131309808,
+  "lastResponseAt": 1776129082378,
+  "sessionId": "edd9a121-0538-4ef3-a836-f9451b5f40ad",
+  "providerState": {
+    "providerSessionId": "edd9a121-0538-4ef3-a836-f9451b5f40ad"
+  },
+  "currentNote": "00 Notes/Mindset/Psychological Patterns - Deep Dives/(C) Master Profile — Padrões Psicológicos.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 535,
+    "cacheReadInputTokens": 52471,
+    "contextWindow": 200000,
+    "contextTokens": 53007,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}

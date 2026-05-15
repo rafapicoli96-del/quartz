@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776306768687-s10v4iqrp",
+  "providerId": "claude",
+  "title": "Log escondidinho meal",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776306768688,
+  "updatedAt": 1776337180875,
+  "lastResponseAt": 1776306787450,
+  "sessionId": "b460f7b0-4c21-4821-ae6f-c29cf4132385",
+  "providerState": {
+    "providerSessionId": "b460f7b0-4c21-4821-ae6f-c29cf4132385"
+  },
+  "currentNote": "IMG_3978.jpg",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 868,
+    "cacheReadInputTokens": 41558,
+    "contextWindow": 200000,
+    "contextTokens": 42434,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776968637869-xe5ebt97m",
+  "providerId": "claude",
+  "title": "**Título:** Song Log Generator - Como Funciona\n...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776968637869,
+  "updatedAt": 1776983344606,
+  "lastResponseAt": 1776972143482,
+  "sessionId": "b81b882b-e3cf-4c94-b285-b01433ff399a",
+  "providerState": {
+    "providerSessionId": "b81b882b-e3cf-4c94-b285-b01433ff399a"
+  },
+  "currentNote": "03 Projects/Music Mastery/01 Song Logs/2026-04-16 — Lana Del Rey — Westcoast.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1139,
+    "cacheReadInputTokens": 94723,
+    "contextWindow": 200000,
+    "contextTokens": 95863,
+    "percentage": 48,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777818186891-r5wlh69jk",
+  "providerId": "claude",
+  "title": "Vou rodar a skill no vídeo. Primeiro, extrai as...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777818186891,
+  "updatedAt": 1778063836663,
+  "lastResponseAt": 1777818346355,
+  "sessionId": "bf3b5169-0ffa-4bb8-88aa-d418c367ed87",
+  "providerState": {
+    "providerSessionId": "bf3b5169-0ffa-4bb8-88aa-d418c367ed87"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4162,
+    "cacheReadInputTokens": 45448,
+    "contextWindow": 200000,
+    "contextTokens": 49611,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}

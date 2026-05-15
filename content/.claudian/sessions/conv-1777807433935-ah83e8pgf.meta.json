@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777807433935-ah83e8pgf",
+  "providerId": "claude",
+  "title": "Lendo o CLAUDE.md + MEMORY.md, tudo está bem es...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777807433936,
+  "updatedAt": 1777818172859,
+  "lastResponseAt": 1777807491326,
+  "sessionId": "da1a1fc2-ac0c-4033-b478-523073513b16",
+  "providerState": {
+    "providerSessionId": "da1a1fc2-ac0c-4033-b478-523073513b16"
+  },
+  "currentNote": "Master To-Do.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1295,
+    "cacheReadInputTokens": 33608,
+    "contextWindow": 200000,
+    "contextTokens": 34904,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777975863249-hvc0esf9o",
+  "providerId": "claude",
+  "title": "Vou ler o arquivo de tarefas ativas e fazer as ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777975863249,
+  "updatedAt": 1777977248463,
+  "lastResponseAt": 1777975905274,
+  "sessionId": "847f7640-7de6-4729-b72c-e9cf7fa07572",
+  "providerState": {
+    "providerSessionId": "847f7640-7de6-4729-b72c-e9cf7fa07572"
+  },
+  "currentNote": "Work — Tarefas Ativas.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 591,
+    "cacheReadInputTokens": 51330,
+    "contextWindow": 200000,
+    "contextTokens": 51929,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1776868853002-ze2w2rkyw",
+  "providerId": "claude",
+  "title": "Create Music Briefing",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776868853002,
+  "updatedAt": 1776884673324,
+  "lastResponseAt": 1776869032327,
+  "sessionId": null,
+  "currentNote": "00 Notes/Daily Briefings/2026-04-21 — Music Briefing.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 835,
+    "cacheCreationInputTokens": 1886,
+    "cacheReadInputTokens": 26758,
+    "contextWindow": 200000,
+    "contextTokens": 29479,
+    "percentage": 15
+  }
+}

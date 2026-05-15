@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778784778640-83dhezmpa",
+  "providerId": "claude",
+  "title": "**WhatsApp Message Identification: Green vs Gray**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778784778641,
+  "updatedAt": 1778784926567,
+  "lastResponseAt": 1778784797657,
+  "sessionId": "979fce91-031a-4b44-b852-3bf85d11bc20",
+  "providerState": {
+    "providerSessionId": "979fce91-031a-4b44-b852-3bf85d11bc20"
+  },
+  "currentNote": "05 Skills/whatsapp-responder.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 489,
+    "cacheReadInputTokens": 28418,
+    "contextWindow": 200000,
+    "contextTokens": 28908,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778322510284-y5ogigere",
+  "providerId": "claude",
+  "title": "atualiza essa lista aqui",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778322510284,
+  "updatedAt": 1778411991169,
+  "lastResponseAt": 1778322600920,
+  "sessionId": "6689894c-b018-462d-90eb-15afa5dabb34",
+  "providerState": {
+    "providerSessionId": "6689894c-b018-462d-90eb-15afa5dabb34"
+  },
+  "currentNote": "zMaster To-Do.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2518,
+    "cacheReadInputTokens": 29583,
+    "contextWindow": 200000,
+    "contextTokens": 32102,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

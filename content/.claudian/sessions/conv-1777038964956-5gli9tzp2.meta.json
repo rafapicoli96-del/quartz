@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777038964956-5gli9tzp2",
+  "providerId": "claude",
+  "title": "Não consigo acessar as ferramentas de leitura/e...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777038964956,
+  "updatedAt": 1777040608369,
+  "lastResponseAt": 1777039284966,
+  "sessionId": "d2447d8f-7a2e-4140-a783-b22422188417",
+  "providerState": {
+    "providerSessionId": "d2447d8f-7a2e-4140-a783-b22422188417"
+  },
+  "currentNote": "01 Journals/2026 Journals/04 April/2026-04-23.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 388,
+    "cacheReadInputTokens": 57540,
+    "contextWindow": 200000,
+    "contextTokens": 57936,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

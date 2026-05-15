@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778552371623-x4ftp7eio",
+  "providerId": "claude",
+  "title": "Não consigo ver vídeos embedded diretamente — s...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778552371623,
+  "updatedAt": 1778552507529,
+  "lastResponseAt": 1778552405421,
+  "sessionId": "20cd0251-109e-4434-bb4c-3794647d738d",
+  "providerState": {
+    "providerSessionId": "20cd0251-109e-4434-bb4c-3794647d738d"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 181,
+    "cacheReadInputTokens": 27667,
+    "contextWindow": 200000,
+    "contextTokens": 27851,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776857198083-cus1qxk89",
+  "providerId": "claude",
+  "title": "Fix: Today reset without day 21 journal",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776857198083,
+  "updatedAt": 1776868831483,
+  "lastResponseAt": 1776868548409,
+  "sessionId": "ab5b2e19-ae9e-46a4-ac4b-412a7f1ecf10",
+  "providerState": {
+    "providerSessionId": "ab5b2e19-ae9e-46a4-ac4b-412a7f1ecf10"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2224,
+    "cacheReadInputTokens": 72964,
+    "contextWindow": 200000,
+    "contextTokens": 75189,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}

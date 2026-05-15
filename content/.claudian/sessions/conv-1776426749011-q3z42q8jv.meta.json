@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776426749011-q3z42q8jv",
+  "providerId": "claude",
+  "title": "Auditar vault e alinhar regras",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776426749011,
+  "updatedAt": 1776427851123,
+  "lastResponseAt": 1776427615984,
+  "sessionId": "9df3a962-b799-42cd-a986-32a886f6a3d5",
+  "providerState": {
+    "providerSessionId": "9df3a962-b799-42cd-a986-32a886f6a3d5"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 830,
+    "cacheReadInputTokens": 92137,
+    "contextWindow": 200000,
+    "contextTokens": 92968,
+    "percentage": 46,
+    "contextWindowIsAuthoritative": true
+  }
+}

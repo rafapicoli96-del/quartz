@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778190884506-3b4h11n0o",
+  "providerId": "claude",
+  "title": "**Treino de Costas: Pulldown + Superset Panturr...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778190884507,
+  "updatedAt": 1778191174422,
+  "lastResponseAt": 1778191117032,
+  "sessionId": "b52f0ecd-8664-4213-88a2-7202a538de66",
+  "providerState": {
+    "providerSessionId": "b52f0ecd-8664-4213-88a2-7202a538de66"
+  },
+  "currentNote": "(C) Gym Log.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 472,
+    "cacheReadInputTokens": 58601,
+    "contextWindow": 200000,
+    "contextTokens": 59081,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

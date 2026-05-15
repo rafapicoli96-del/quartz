@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777124723457-6bvs28mut",
+  "providerId": "claude",
+  "title": "Entendi! Vou procurar a sinopse de \"The Art of ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777124723457,
+  "updatedAt": 1777135331089,
+  "lastResponseAt": 1777124748190,
+  "sessionId": "d0532ed3-e08f-47ae-8e71-1ffc1ed8804b",
+  "providerState": {
+    "providerSessionId": "d0532ed3-e08f-47ae-8e71-1ffc1ed8804b"
+  },
+  "currentNote": "00 Notes/Books/Saúde & Longevidade/Outlive - The Science and Art of Longevity - Peter Attia.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1521,
+    "cacheReadInputTokens": 59150,
+    "contextWindow": 200000,
+    "contextTokens": 60679,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777389532508-3e2ujih2o",
+  "providerId": "claude",
+  "title": "Roda o music briefing do dia de hoje",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777389532508,
+  "updatedAt": 1777415418607,
+  "lastResponseAt": 1777389578585,
+  "sessionId": "e9d1cab9-daf3-4c56-88bb-2389b6bc0843",
+  "providerState": {
+    "providerSessionId": "e9d1cab9-daf3-4c56-88bb-2389b6bc0843"
+  },
+  "currentNote": "00 Notes/Daily Briefings/2026-04-27 — Music Briefing.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

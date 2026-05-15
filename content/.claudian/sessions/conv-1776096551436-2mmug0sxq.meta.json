@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776096551436-2mmug0sxq",
+  "providerId": "claude",
+  "title": "**Analisar vídeo YouTube e relevância pessoal**...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776096551436,
+  "updatedAt": 1776102752684,
+  "lastResponseAt": 1776102649743,
+  "sessionId": "ea7296c3-9e16-4ac5-8dcf-969f4b20a000",
+  "providerState": {
+    "providerSessionId": "ea7296c3-9e16-4ac5-8dcf-969f4b20a000"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 569,
+    "cacheReadInputTokens": 61805,
+    "contextWindow": 200000,
+    "contextTokens": 62375,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777087622407-yx60derzp",
+  "providerId": "claude",
+  "title": "**PlayStation R$107 — Classificação de Gasto (J...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777087622407,
+  "updatedAt": 1777117477185,
+  "lastResponseAt": 1777088495860,
+  "sessionId": "7b0dde7b-a41c-4285-ac30-854063d55c33",
+  "providerState": {
+    "providerSessionId": "7b0dde7b-a41c-4285-ac30-854063d55c33"
+  },
+  "currentNote": "03 Projects/Finance/Relatorios/2026-04.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 406,
+    "cacheReadInputTokens": 94339,
+    "contextWindow": 200000,
+    "contextTokens": 94753,
+    "percentage": 47,
+    "contextWindowIsAuthoritative": true
+  }
+}

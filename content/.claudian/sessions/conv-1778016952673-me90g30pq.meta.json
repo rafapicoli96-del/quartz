@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778016952673-me90g30pq",
+  "providerId": "claude",
+  "title": "Eu queria fazer uma note dedicada a marcar os meus...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778016952674,
+  "updatedAt": 1778018253920,
+  "lastResponseAt": 1778018096757,
+  "sessionId": "ffc76e0d-9230-4e1f-9968-60bbf9e5c2a1",
+  "providerState": {
+    "providerSessionId": "ffc76e0d-9230-4e1f-9968-60bbf9e5c2a1"
+  },
+  "currentNote": "Today.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 904,
+    "cacheReadInputTokens": 50463,
+    "contextWindow": 200000,
+    "contextTokens": 51375,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

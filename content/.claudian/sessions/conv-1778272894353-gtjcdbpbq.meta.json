@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778272894353-gtjcdbpbq",
+  "providerId": "claude",
+  "title": "Vou ajudar! Deixa eu primeiro ler a skill atual...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778272894353,
+  "updatedAt": 1778274628308,
+  "lastResponseAt": 1778274370808,
+  "sessionId": "eeb65694-2a3f-41c1-99e0-a86764fa87ec",
+  "providerState": {
+    "providerSessionId": "eeb65694-2a3f-41c1-99e0-a86764fa87ec"
+  },
+  "currentNote": "00 Notes/Vídeos/Joe Hudson/Procrastination/Watch Him Dissolve Procrastination In 11 Minutes.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1956,
+    "cacheReadInputTokens": 62107,
+    "contextWindow": 200000,
+    "contextTokens": 64064,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

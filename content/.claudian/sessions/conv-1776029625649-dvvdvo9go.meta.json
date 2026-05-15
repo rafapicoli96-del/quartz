@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776029625649-dvvdvo9go",
+  "providerId": "claude",
+  "title": "Consolidate Apple Notes into vault",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776029625649,
+  "updatedAt": 1776116424590,
+  "lastResponseAt": 1776031345872,
+  "sessionId": "3d801d2e-9806-478c-9bd4-c8d2f4b47951",
+  "providerState": {
+    "providerSessionId": "3d801d2e-9806-478c-9bd4-c8d2f4b47951"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 998,
+    "cacheReadInputTokens": 61715,
+    "contextWindow": 200000,
+    "contextTokens": 62723,
+    "percentage": 31,
+    "contextWindowIsAuthoritative": true
+  }
+}

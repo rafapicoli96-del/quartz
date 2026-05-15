@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777389214945-30fl7wsd4",
+  "providerId": "claude",
+  "title": "# Remover sistema automatizado RPG Live",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777389214946,
+  "updatedAt": 1777415416094,
+  "lastResponseAt": 1777389284168,
+  "sessionId": "30676393-d88b-47d8-ab1b-af1cad30297d",
+  "providerState": {
+    "providerSessionId": "30676393-d88b-47d8-ab1b-af1cad30297d"
+  },
+  "currentNote": "00 Notes/Active Recall/2026-04-28 — Active Recall.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 176,
+    "cacheReadInputTokens": 34186,
+    "contextWindow": 200000,
+    "contextTokens": 34363,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

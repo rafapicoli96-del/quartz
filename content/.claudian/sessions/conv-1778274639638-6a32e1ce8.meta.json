@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778274639638-6a32e1ce8",
+  "providerId": "claude",
+  "title": "Deixa eu ler a skill de YouTube Summarizer prim...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778274639638,
+  "updatedAt": 1778275061280,
+  "lastResponseAt": 1778274895477,
+  "sessionId": "72c43865-09fa-4438-95e0-9817f770f91b",
+  "providerState": {
+    "providerSessionId": "72c43865-09fa-4438-95e0-9817f770f91b"
+  },
+  "currentNote": "00 Notes/Vídeos/Joe Hudson/Procrastination/Watch Him Dissolve Procrastination In 11 Minutes.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 5587,
+    "cacheReadInputTokens": 57992,
+    "contextWindow": 200000,
+    "contextTokens": 63580,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}

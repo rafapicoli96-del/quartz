@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778593085746-yycj6b9rx",
+  "providerId": "claude",
+  "title": "Vou analisar seu treino da última semana puxand...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778593085747,
+  "updatedAt": 1778605710772,
+  "lastResponseAt": 1778597578690,
+  "sessionId": "c469d210-e407-46ed-99c1-93f9fadd42cf",
+  "providerState": {
+    "providerSessionId": "c469d210-e407-46ed-99c1-93f9fadd42cf"
+  },
+  "currentNote": "(C) Gym Log.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 602,
+    "cacheReadInputTokens": 31299,
+    "contextWindow": 200000,
+    "contextTokens": 31902,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778704512098-z5575x47t",
+  "providerId": "claude",
+  "title": "Vou primeiro verificar o que tem nessa pasta e ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778704512098,
+  "updatedAt": 1778720144955,
+  "lastResponseAt": 1778704891701,
+  "sessionId": "1fc0d6b4-14a9-495d-8e96-2245d5530cb2",
+  "providerState": {
+    "providerSessionId": "1fc0d6b4-14a9-495d-8e96-2245d5530cb2"
+  },
+  "currentNote": "05 Skills/pickup-track-renamer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 289,
+    "cacheReadInputTokens": 34646,
+    "contextWindow": 200000,
+    "contextTokens": 34936,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

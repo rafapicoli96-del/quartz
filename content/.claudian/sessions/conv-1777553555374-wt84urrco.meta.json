@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777553555374-wt84urrco",
+  "providerId": "claude",
+  "title": "I'll extract the video metadata to give you an ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777553555374,
+  "updatedAt": 1777583847177,
+  "lastResponseAt": 1777553727401,
+  "sessionId": "548e81d5-188c-4b87-a473-9921be5dd683",
+  "providerState": {
+    "providerSessionId": "548e81d5-188c-4b87-a473-9921be5dd683"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4622,
+    "cacheReadInputTokens": 38935,
+    "contextWindow": 200000,
+    "contextTokens": 43558,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

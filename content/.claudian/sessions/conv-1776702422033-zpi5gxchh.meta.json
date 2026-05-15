@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776702422033-zpi5gxchh",
+  "providerId": "claude",
+  "title": "Plan next strategic moves",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776702422034,
+  "updatedAt": 1776817897169,
+  "lastResponseAt": 1776706914633,
+  "sessionId": "ff5b07af-c836-4afa-9bff-31fc3ec6fe5c",
+  "providerState": {
+    "providerSessionId": "ff5b07af-c836-4afa-9bff-31fc3ec6fe5c"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 436,
+    "cacheReadInputTokens": 35034,
+    "contextWindow": 200000,
+    "contextTokens": 35471,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

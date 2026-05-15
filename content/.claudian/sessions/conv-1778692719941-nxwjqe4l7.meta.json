@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778692719941-nxwjqe4l7",
+  "providerId": "claude",
+  "title": "I'll run the YouTube summarizer on that video. ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778692719941,
+  "updatedAt": 1778720147028,
+  "lastResponseAt": 1778699309852,
+  "sessionId": "d8d00bf6-f6bb-4c29-b6d3-074985df6986",
+  "providerState": {
+    "providerSessionId": "d8d00bf6-f6bb-4c29-b6d3-074985df6986"
+  },
+  "currentNote": "(C) Gym Log.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 915,
+    "cacheReadInputTokens": 72293,
+    "contextWindow": 200000,
+    "contextTokens": 73216,
+    "percentage": 37,
+    "contextWindowIsAuthoritative": true
+  }
+}

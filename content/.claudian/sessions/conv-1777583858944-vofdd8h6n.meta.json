@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777583858944-vofdd8h6n",
+  "providerId": "claude",
+  "title": "https://www",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777583858944,
+  "updatedAt": 1777590727353,
+  "lastResponseAt": 1777584590034,
+  "sessionId": "1c81ab2d-2e72-4d43-bd01-0403e21d8792",
+  "providerState": {
+    "providerSessionId": "1c81ab2d-2e72-4d43-bd01-0403e21d8792"
+  },
+  "currentNote": "05 Skills/youtube-video-summarizer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1397,
+    "cacheReadInputTokens": 92966,
+    "contextWindow": 200000,
+    "contextTokens": 94371,
+    "percentage": 47,
+    "contextWindowIsAuthoritative": true
+  }
+}

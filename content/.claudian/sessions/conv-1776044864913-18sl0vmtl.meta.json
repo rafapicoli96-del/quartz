@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776044864913-18sl0vmtl",
+  "providerId": "claude",
+  "title": "Fix Claudian iCloud vault sync error",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776044864914,
+  "updatedAt": 1776116327464,
+  "lastResponseAt": 1776044891351,
+  "sessionId": "1b6c4830-51c7-482c-90f6-824ab4aa4a8c",
+  "providerState": {
+    "providerSessionId": "1b6c4830-51c7-482c-90f6-824ab4aa4a8c"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 4779,
+    "cacheReadInputTokens": 11151,
+    "contextWindow": 200000,
+    "contextTokens": 15933,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

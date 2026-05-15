@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776303522408-vlf7r0s2i",
+  "providerId": "claude",
+  "title": "Create shareable file naming prompt",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776303522408,
+  "updatedAt": 1776306738846,
+  "lastResponseAt": 1776303592921,
+  "sessionId": "b1509c63-3de6-41bf-870f-719a3590009b",
+  "providerState": {
+    "providerSessionId": "b1509c63-3de6-41bf-870f-719a3590009b"
+  },
+  "currentNote": "05 Skills/pickup-track-renamer.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 505,
+    "cacheReadInputTokens": 48989,
+    "contextWindow": 200000,
+    "contextTokens": 49502,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}

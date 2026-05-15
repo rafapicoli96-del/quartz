@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776093316592-0m1bv3m5w",
+  "providerId": "claude",
+  "title": "Optimize Claude token efficiency",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776093316592,
+  "updatedAt": 1776093558500,
+  "lastResponseAt": 1776093512853,
+  "sessionId": "28042e3e-023f-42a2-afa0-791810997824",
+  "providerState": {
+    "providerSessionId": "28042e3e-023f-42a2-afa0-791810997824"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 3360,
+    "cacheReadInputTokens": 140029,
+    "contextWindow": 200000,
+    "contextTokens": 143397,
+    "percentage": 72,
+    "contextWindowIsAuthoritative": true
+  }
+}

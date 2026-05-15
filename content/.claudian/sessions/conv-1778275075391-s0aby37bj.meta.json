@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778275075391-s0aby37bj",
+  "providerId": "claude",
+  "title": "Vou rodar o YouTube summarizer nesse vídeo do J...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778275075392,
+  "updatedAt": 1778275823833,
+  "lastResponseAt": 1778275456216,
+  "sessionId": "3b49137b-f711-4b10-a4f3-d87d79d8107d",
+  "providerState": {
+    "providerSessionId": "3b49137b-f711-4b10-a4f3-d87d79d8107d"
+  },
+  "currentNote": "00 Notes/Vídeos/Joe Hudson/I've Coached 100s of Top Performers. This is the Moment I Look For.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 8926,
+    "cacheReadInputTokens": 75038,
+    "contextWindow": 200000,
+    "contextTokens": 83965,
+    "percentage": 42,
+    "contextWindowIsAuthoritative": true
+  }
+}

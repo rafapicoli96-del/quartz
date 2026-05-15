@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776045017534-bxv7ezuex",
+  "providerId": "claude",
+  "title": "Debug Obsidian iCloud MCP server error",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776045017534,
+  "updatedAt": 1776116333144,
+  "lastResponseAt": 1776046580440,
+  "sessionId": "312046c4-67ca-43c6-a3b7-ef547991466b",
+  "providerState": {
+    "providerSessionId": "312046c4-67ca-43c6-a3b7-ef547991466b"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 300,
+    "cacheReadInputTokens": 39899,
+    "contextWindow": 200000,
+    "contextTokens": 40200,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

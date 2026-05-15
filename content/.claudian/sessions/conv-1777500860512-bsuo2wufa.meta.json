@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777500860512-bsuo2wufa",
+  "providerId": "claude",
+  "title": "Preciso que você arrume uma coisa pra mim",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777500860513,
+  "updatedAt": 1777552315863,
+  "lastResponseAt": 1777550058225,
+  "sessionId": "b2376f18-e515-4832-9739-a44e1994d327",
+  "providerState": {
+    "providerSessionId": "b2376f18-e515-4832-9739-a44e1994d327"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 15620,
+    "cacheReadInputTokens": 77571,
+    "contextWindow": 200000,
+    "contextTokens": 93192,
+    "percentage": 47,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777045674173-q18sm21c1",
+  "providerId": "claude",
+  "title": "**Lista de Trabalhos em Aberto — Abril 2026**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777045674173,
+  "updatedAt": 1777045872785,
+  "lastResponseAt": 1777045752794,
+  "sessionId": "b9a323e9-e115-4b47-8d53-ac7de418c7a0",
+  "providerState": {
+    "providerSessionId": "b9a323e9-e115-4b47-8d53-ac7de418c7a0"
+  },
+  "currentNote": "Work — Tarefas Ativas.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 456,
+    "cacheReadInputTokens": 28165,
+    "contextWindow": 200000,
+    "contextTokens": 28622,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}
